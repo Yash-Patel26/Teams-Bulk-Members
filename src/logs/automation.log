@@ -1,0 +1,1722 @@
+2024-03-04 22:33:20,697 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NDAxOWIzMTMtYzFkZi00NzBmLWExOWUtZWZhMzBlODhiMTAz%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%252208f45311-74b9-47ea-a9c9-a5b147d432d1%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=d8867bcf-6563-499a-a010-479be5621e7a&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-04 22:33:20,697 - DEBUG: Original meeting url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NDAxOWIzMTMtYzFkZi00NzBmLWExOWUtZWZhMzBlODhiMTAz%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%252208f45311-74b9-47ea-a9c9-a5b147d432d1%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=d8867bcf-6563-499a-a010-479be5621e7a&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-04 22:33:20,698 - DEBUG: New meeting url generated is https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_NDAxOWIzMTMtYzFkZi00NzBmLWExOWUtZWZhMzBlODhiMTAz@thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%2208f45311-74b9-47ea-a9c9-a5b147d432d1%22%7d&anon=true&type=meetup-join&deeplinkId=d8867bcf-6563-499a-a010-479be5621e7a&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-04 22:33:20,698 - DEBUG: Read and found 16 total users in username file.
+2024-03-04 22:33:20,698 - DEBUG: Read the meeting exit time. It is 2
+2024-03-04 22:33:20,698 - DEBUG: Max number to workers are 5
+2024-03-04 22:33:20,699 - DEBUG: starting chrome driver for user -- amit
+2024-03-04 22:33:20,700 - DEBUG: starting chrome driver for user -- amit1
+2024-03-04 22:33:20,700 - DEBUG: starting chrome driver for user -- amit2
+2024-03-04 22:33:20,701 - DEBUG: starting chrome driver for user -- amit3
+2024-03-04 22:33:20,701 - DEBUG: starting chrome driver for user -- amit4
+2024-03-04 22:33:24,213 - DEBUG: Chrome driver is running for user -- amit1
+2024-03-04 22:33:24,276 - DEBUG: Chrome driver is running for user -- amit3
+2024-03-04 22:33:24,743 - DEBUG: Chrome driver is running for user -- amit2
+2024-03-04 22:33:25,666 - DEBUG: Chrome driver is running for user -- amit
+2024-03-04 22:33:26,541 - DEBUG: Chrome driver is running for user -- amit4
+2024-03-04 22:33:26,916 - DEBUG: Waiting for meeting url to load for user -- amit1
+2024-03-04 22:33:27,846 - DEBUG: Waiting for meeting url to load for user -- amit3
+2024-03-04 22:33:28,166 - DEBUG: Waiting for meeting url to load for user -- amit2
+2024-03-04 22:33:31,013 - DEBUG: Waiting for meeting url to load for user -- amit
+2024-03-04 22:33:33,935 - DEBUG: Waiting for meeting url to load for user -- amit4
+2024-03-04 22:33:40,826 - DEBUG: Meeting page is loaded for user -- amit3
+2024-03-04 22:33:40,948 - DEBUG: Entered Guest username for -- amit3
+2024-03-04 22:33:41,007 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit3
+2024-03-04 22:33:41,844 - DEBUG: Meeting page is loaded for user -- amit
+2024-03-04 22:33:43,296 - INFO: User amit3 is joining the meeting..
+2024-03-04 22:33:43,609 - DEBUG: Entered Guest username for -- amit
+2024-03-04 22:33:43,915 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit
+2024-03-04 22:33:44,248 - INFO: User amit3 has successfully joined the meeting..
+2024-03-04 22:33:44,248 - DEBUG: starting chrome driver for user -- amit5
+2024-03-04 22:33:44,296 - DEBUG: Meeting page is loaded for user -- amit2
+2024-03-04 22:33:44,583 - DEBUG: Entered Guest username for -- amit2
+2024-03-04 22:33:44,657 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit2
+2024-03-04 22:33:46,356 - INFO: User amit is joining the meeting..
+2024-03-04 22:33:47,734 - DEBUG: Chrome driver is running for user -- amit5
+2024-03-04 22:33:47,784 - DEBUG: Meeting page is loaded for user -- amit4
+2024-03-04 22:33:49,283 - INFO: User amit has successfully joined the meeting..
+2024-03-04 22:33:49,308 - DEBUG: starting chrome driver for user -- amit6
+2024-03-04 22:33:49,807 - INFO: User amit2 is joining the meeting..
+2024-03-04 22:33:50,143 - DEBUG: Waiting for meeting url to load for user -- amit5
+2024-03-04 22:33:50,318 - DEBUG: Entered Guest username for -- amit4
+2024-03-04 22:33:50,498 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit4
+2024-03-04 22:33:52,595 - INFO: User amit2 has successfully joined the meeting..
+2024-03-04 22:33:52,665 - DEBUG: starting chrome driver for user -- amit7
+2024-03-04 22:33:53,235 - INFO: User amit4 is joining the meeting..
+2024-03-04 22:33:55,792 - INFO: User amit4 has successfully joined the meeting..
+2024-03-04 22:33:55,846 - DEBUG: starting chrome driver for user -- amit8
+2024-03-04 22:33:59,912 - DEBUG: Chrome driver is running for user -- amit6
+2024-03-04 22:34:00,162 - DEBUG: Waiting for meeting url to load for user -- amit6
+2024-03-04 22:34:02,469 - DEBUG: starting chrome driver for user -- amit9
+2024-03-04 22:34:02,513 - DEBUG: Chrome driver is running for user -- amit7
+2024-03-04 22:34:03,644 - DEBUG: Meeting page is loaded for user -- amit1
+2024-03-04 22:34:03,896 - DEBUG: Entered Guest username for -- amit1
+2024-03-04 22:34:03,969 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit1
+2024-03-04 22:34:04,178 - DEBUG: Waiting for meeting url to load for user -- amit7
+2024-03-04 22:34:04,259 - DEBUG: starting chrome driver for user -- amit10
+2024-03-04 22:34:04,478 - DEBUG: Chrome driver is running for user -- amit8
+2024-03-04 22:34:05,277 - DEBUG: Waiting for meeting url to load for user -- amit8
+2024-03-04 22:34:05,306 - DEBUG: starting chrome driver for user -- amit11
+2024-03-04 22:34:06,094 - INFO: User amit1 is joining the meeting..
+2024-03-04 22:34:06,863 - INFO: User amit1 has successfully joined the meeting..
+2024-03-04 22:34:06,873 - DEBUG: starting chrome driver for user -- amit12
+2024-03-04 22:34:07,423 - DEBUG: starting chrome driver for user -- amit13
+2024-03-04 22:34:08,931 - DEBUG: Chrome driver is running for user -- amit10
+2024-03-04 22:34:09,535 - DEBUG: Chrome driver is running for user -- amit9
+2024-03-04 22:34:09,871 - DEBUG: starting chrome driver for user -- amit14
+2024-03-04 22:34:10,335 - DEBUG: Chrome driver is running for user -- amit11
+2024-03-04 22:34:10,846 - DEBUG: starting chrome driver for user -- amit15
+2024-03-04 22:34:11,976 - DEBUG: Chrome driver is running for user -- amit12
+2024-03-04 22:34:12,106 - DEBUG: Waiting for meeting url to load for user -- amit10
+2024-03-04 22:34:12,624 - DEBUG: Chrome driver is running for user -- amit13
+2024-03-04 22:34:15,338 - DEBUG: Waiting for meeting url to load for user -- amit12
+2024-03-04 22:34:15,365 - DEBUG: Waiting for meeting url to load for user -- amit13
+2024-03-04 22:34:16,678 - DEBUG: Chrome driver is running for user -- amit15
+2024-03-04 22:34:16,788 - DEBUG: Chrome driver is running for user -- amit14
+2024-03-04 22:34:19,991 - DEBUG: Waiting for meeting url to load for user -- amit15
+2024-03-04 22:34:21,902 - DEBUG: Waiting for meeting url to load for user -- amit14
+2024-03-04 22:34:27,843 - DEBUG: Meeting page is loaded for user -- amit13
+2024-03-04 22:34:28,107 - DEBUG: Entered Guest username for -- amit13
+2024-03-04 22:34:28,182 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit13
+2024-03-04 22:34:31,080 - DEBUG: Meeting page is loaded for user -- amit15
+2024-03-04 22:34:31,211 - DEBUG: Entered Guest username for -- amit15
+2024-03-04 22:34:31,538 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit15
+2024-03-04 22:34:32,673 - INFO: User amit13 is joining the meeting..
+2024-03-04 22:34:33,624 - INFO: User amit13 has successfully joined the meeting..
+2024-03-04 22:34:34,300 - DEBUG: Meeting page is loaded for user -- amit12
+2024-03-04 22:34:35,266 - DEBUG: Entered Guest username for -- amit12
+2024-03-04 22:34:35,355 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit12
+2024-03-04 22:34:35,939 - DEBUG: Meeting page is loaded for user -- amit14
+2024-03-04 22:34:35,994 - INFO: User amit15 is joining the meeting..
+2024-03-04 22:34:36,184 - DEBUG: Entered Guest username for -- amit14
+2024-03-04 22:34:36,307 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit14
+2024-03-04 22:34:36,415 - INFO: User amit15 has successfully joined the meeting..
+2024-03-04 22:34:38,394 - INFO: User amit14 is joining the meeting..
+2024-03-04 22:34:38,792 - INFO: User amit14 has successfully joined the meeting..
+2024-03-04 22:34:39,838 - INFO: User amit12 is joining the meeting..
+2024-03-04 22:34:40,355 - INFO: User amit12 has successfully joined the meeting..
+2024-03-04 22:34:40,355 - INFO: Waiting for 2 minutes to close the browsers..
+2024-03-04 22:37:17,447 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmU4ZGYwMzItODVlZi00ZTMzLThlMzYtMTdkZjk3YWM4M2M3%40thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%220196a2fd-1482-4961-9bf0-e0279e858d85%22%7d
+2024-03-05 06:36:52,725 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmU4ZGYwMzItODVlZi00ZTMzLThlMzYtMTdkZjk3YWM4M2M3%40thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%220196a2fd-1482-4961-9bf0-e0279e858d85%22%7d
+2024-03-05 06:52:07,552 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NzE0NDdhYTMtMDUwMC00MDU4LTkwYTQtZDc5ZDE5OTliMzAw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=b223e967-90d8-4172-9d1a-767256721521&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 06:52:07,553 - DEBUG: Original meeting url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NzE0NDdhYTMtMDUwMC00MDU4LTkwYTQtZDc5ZDE5OTliMzAw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=b223e967-90d8-4172-9d1a-767256721521&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 06:52:07,553 - DEBUG: New meeting url generated is https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_NzE0NDdhYTMtMDUwMC00MDU4LTkwYTQtZDc5ZDE5OTliMzAw@thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%220196a2fd-1482-4961-9bf0-e0279e858d85%22%7d&anon=true&type=meetup-join&deeplinkId=b223e967-90d8-4172-9d1a-767256721521&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 06:52:07,554 - DEBUG: Read and found 16 total users in username file.
+2024-03-05 06:52:07,554 - DEBUG: Read the meeting exit time. It is 1
+2024-03-05 06:52:07,554 - DEBUG: Max number to workers are 5
+2024-03-05 06:52:07,555 - DEBUG: starting chrome driver for user -- amit
+2024-03-05 06:52:07,555 - DEBUG: starting chrome driver for user -- amit1
+2024-03-05 06:52:07,556 - DEBUG: starting chrome driver for user -- amit2
+2024-03-05 06:52:07,556 - DEBUG: starting chrome driver for user -- amit3
+2024-03-05 06:52:07,556 - DEBUG: starting chrome driver for user -- amit4
+2024-03-05 06:52:11,102 - DEBUG: Chrome driver is running for user -- amit3
+2024-03-05 06:52:11,154 - DEBUG: Chrome driver is running for user -- amit
+2024-03-05 06:52:11,172 - DEBUG: Chrome driver is running for user -- amit4
+2024-03-05 06:52:11,202 - DEBUG: Chrome driver is running for user -- amit1
+2024-03-05 06:52:11,342 - DEBUG: Chrome driver is running for user -- amit2
+2024-03-05 06:52:15,341 - DEBUG: Waiting for meeting url to load for user -- amit2
+2024-03-05 06:52:15,543 - DEBUG: Waiting for meeting url to load for user -- amit4
+2024-03-05 06:52:15,549 - DEBUG: Waiting for meeting url to load for user -- amit
+2024-03-05 06:52:15,653 - DEBUG: Waiting for meeting url to load for user -- amit1
+2024-03-05 06:52:16,168 - DEBUG: Waiting for meeting url to load for user -- amit3
+2024-03-05 06:52:26,209 - DEBUG: Meeting page is loaded for user -- amit4
+2024-03-05 06:52:26,464 - DEBUG: Entered Guest username for -- amit4
+2024-03-05 06:52:26,528 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit4
+2024-03-05 06:52:27,700 - DEBUG: Meeting page is loaded for user -- amit
+2024-03-05 06:52:27,765 - DEBUG: Meeting page is loaded for user -- amit3
+2024-03-05 06:52:27,855 - DEBUG: Entered Guest username for -- amit
+2024-03-05 06:52:27,909 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit
+2024-03-05 06:52:27,985 - DEBUG: Entered Guest username for -- amit3
+2024-03-05 06:52:28,211 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit3
+2024-03-05 06:52:28,579 - INFO: User amit4 is joining the meeting..
+2024-03-05 06:52:28,731 - DEBUG: Meeting page is loaded for user -- amit2
+2024-03-05 06:52:29,294 - DEBUG: Entered Guest username for -- amit2
+2024-03-05 06:52:29,469 - INFO: User amit4 has successfully joined the meeting..
+2024-03-05 06:52:29,469 - DEBUG: starting chrome driver for user -- amit5
+2024-03-05 06:52:30,020 - INFO: User amit is joining the meeting..
+2024-03-05 06:52:30,119 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit2
+2024-03-05 06:52:30,140 - DEBUG: Meeting page is loaded for user -- amit1
+2024-03-05 06:52:30,653 - DEBUG: Entered Guest username for -- amit1
+2024-03-05 06:52:30,815 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit1
+2024-03-05 06:52:30,854 - INFO: User amit has successfully joined the meeting..
+2024-03-05 06:52:30,854 - DEBUG: starting chrome driver for user -- amit6
+2024-03-05 06:52:32,883 - INFO: User amit1 is joining the meeting..
+2024-03-05 06:52:32,891 - DEBUG: Chrome driver is running for user -- amit5
+2024-03-05 06:52:33,671 - DEBUG: Chrome driver is running for user -- amit6
+2024-03-05 06:52:33,909 - INFO: User amit3 is joining the meeting..
+2024-03-05 06:52:34,813 - INFO: User amit3 has successfully joined the meeting..
+2024-03-05 06:52:34,815 - DEBUG: starting chrome driver for user -- amit7
+2024-03-05 06:52:35,005 - INFO: User amit1 has successfully joined the meeting..
+2024-03-05 06:52:35,005 - DEBUG: starting chrome driver for user -- amit8
+2024-03-05 06:52:35,036 - INFO: User amit2 is joining the meeting..
+2024-03-05 06:52:35,856 - INFO: User amit2 has successfully joined the meeting..
+2024-03-05 06:52:35,923 - DEBUG: starting chrome driver for user -- amit9
+2024-03-05 06:52:35,957 - DEBUG: Waiting for meeting url to load for user -- amit5
+2024-03-05 06:52:36,348 - DEBUG: Waiting for meeting url to load for user -- amit6
+2024-03-05 06:52:42,292 - DEBUG: Chrome driver is running for user -- amit8
+2024-03-05 06:52:42,309 - DEBUG: Chrome driver is running for user -- amit7
+2024-03-05 06:52:48,175 - DEBUG: Waiting for meeting url to load for user -- amit8
+2024-03-05 06:52:48,179 - DEBUG: Chrome driver is running for user -- amit9
+2024-03-05 06:52:51,301 - DEBUG: Waiting for meeting url to load for user -- amit7
+2024-03-05 06:52:56,639 - DEBUG: Waiting for meeting url to load for user -- amit9
+2024-03-05 06:52:57,837 - DEBUG: Meeting page is loaded for user -- amit5
+2024-03-05 06:52:58,036 - DEBUG: Entered Guest username for -- amit5
+2024-03-05 06:52:59,458 - DEBUG: Meeting page is loaded for user -- amit6
+2024-03-05 06:53:03,149 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit5
+2024-03-05 06:53:05,567 - INFO: User amit5 is joining the meeting..
+2024-03-05 06:53:06,977 - INFO: User amit5 has successfully joined the meeting..
+2024-03-05 06:53:07,150 - DEBUG: starting chrome driver for user -- amit10
+2024-03-05 06:53:07,320 - DEBUG: Entered Guest username for -- amit6
+2024-03-05 06:53:07,708 - DEBUG: Meeting page is loaded for user -- amit8
+2024-03-05 06:53:08,376 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit6
+2024-03-05 06:53:08,723 - DEBUG: Entered Guest username for -- amit8
+2024-03-05 06:53:08,819 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit8
+2024-03-05 06:53:10,546 - INFO: User amit6 is joining the meeting..
+2024-03-05 06:53:11,978 - INFO: User amit6 has successfully joined the meeting..
+2024-03-05 06:53:11,985 - DEBUG: starting chrome driver for user -- amit11
+2024-03-05 06:53:12,849 - DEBUG: Meeting page is loaded for user -- amit7
+2024-03-05 06:53:14,678 - DEBUG: Chrome driver is running for user -- amit10
+2024-03-05 06:53:14,760 - INFO: User amit8 is joining the meeting..
+2024-03-05 06:53:17,598 - DEBUG: Entered Guest username for -- amit7
+2024-03-05 06:53:17,730 - INFO: User amit8 has successfully joined the meeting..
+2024-03-05 06:53:17,785 - DEBUG: starting chrome driver for user -- amit12
+2024-03-05 06:53:18,479 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit7
+2024-03-05 06:53:19,752 - DEBUG: Waiting for meeting url to load for user -- amit10
+2024-03-05 06:53:24,485 - INFO: User amit7 is joining the meeting..
+2024-03-05 06:53:29,637 - INFO: User amit7 has successfully joined the meeting..
+2024-03-05 06:53:29,691 - DEBUG: starting chrome driver for user -- amit13
+2024-03-05 06:53:29,846 - DEBUG: Chrome driver is running for user -- amit11
+2024-03-05 06:53:35,396 - DEBUG: Chrome driver is running for user -- amit12
+2024-03-05 06:53:35,785 - DEBUG: Waiting for meeting url to load for user -- amit11
+2024-03-05 06:53:37,336 - DEBUG: Meeting page is loaded for user -- amit9
+2024-03-05 06:53:37,581 - DEBUG: Entered Guest username for -- amit9
+2024-03-05 06:53:44,125 - DEBUG: Meeting page is loaded for user -- amit10
+2024-03-05 06:53:44,570 - DEBUG: Waiting for meeting url to load for user -- amit12
+2024-03-05 06:53:46,116 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit9
+2024-03-05 06:53:47,638 - DEBUG: Entered Guest username for -- amit10
+2024-03-05 06:53:48,633 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit10
+2024-03-05 06:53:49,101 - INFO: User amit9 is joining the meeting..
+2024-03-05 06:53:53,761 - INFO: User amit10 is joining the meeting..
+2024-03-05 06:53:54,719 - INFO: User amit9 has successfully joined the meeting..
+2024-03-05 06:53:54,812 - DEBUG: Meeting page is loaded for user -- amit11
+2024-03-05 06:53:54,875 - DEBUG: starting chrome driver for user -- amit14
+2024-03-05 06:53:56,454 - DEBUG: Chrome driver is running for user -- amit13
+2024-03-05 06:53:58,202 - INFO: User amit10 has successfully joined the meeting..
+2024-03-05 06:53:58,415 - DEBUG: starting chrome driver for user -- amit15
+2024-03-05 06:54:03,381 - DEBUG: Waiting for meeting url to load for user -- amit13
+2024-03-05 06:54:05,271 - DEBUG: Meeting page is loaded for user -- amit12
+2024-03-05 06:54:05,932 - DEBUG: Entered Guest username for -- amit12
+2024-03-05 06:54:06,347 - DEBUG: Entered Guest username for -- amit11
+2024-03-05 06:54:06,579 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit11
+2024-03-05 06:54:07,019 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit12
+2024-03-05 06:54:11,961 - INFO: User amit11 is joining the meeting..
+2024-03-05 06:54:12,210 - INFO: User amit12 is joining the meeting..
+2024-03-05 06:54:13,641 - INFO: User amit11 has successfully joined the meeting..
+2024-03-05 06:54:13,649 - INFO: User amit12 has successfully joined the meeting..
+2024-03-05 06:54:20,178 - DEBUG: Chrome driver is running for user -- amit14
+2024-03-05 06:54:22,181 - DEBUG: Chrome driver is running for user -- amit15
+2024-03-05 06:54:29,331 - DEBUG: Meeting page is loaded for user -- amit13
+2024-03-05 06:54:30,219 - DEBUG: Waiting for meeting url to load for user -- amit15
+2024-03-05 06:54:30,510 - DEBUG: Waiting for meeting url to load for user -- amit14
+2024-03-05 06:54:33,302 - DEBUG: Entered Guest username for -- amit13
+2024-03-05 06:54:46,514 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit13
+2024-03-05 06:54:51,839 - INFO: User amit13 is joining the meeting..
+2024-03-05 06:54:52,780 - DEBUG: Meeting page is loaded for user -- amit14
+2024-03-05 06:54:54,245 - DEBUG: Entered Guest username for -- amit14
+2024-03-05 06:54:54,376 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit14
+2024-03-05 06:54:57,530 - INFO: User amit14 is joining the meeting..
+2024-03-05 06:55:00,362 - INFO: User amit14 has successfully joined the meeting..
+2024-03-05 06:55:02,229 - INFO: User amit13 has successfully joined the meeting..
+2024-03-05 06:55:04,569 - DEBUG: Meeting page is loaded for user -- amit15
+2024-03-05 06:55:09,031 - DEBUG: Entered Guest username for -- amit15
+2024-03-05 06:55:13,818 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit15
+2024-03-05 06:55:16,542 - INFO: User amit15 is joining the meeting..
+2024-03-05 06:55:17,508 - INFO: User amit15 has successfully joined the meeting..
+2024-03-05 06:55:17,509 - INFO: Waiting for 1 minutes to close the browsers..
+2024-03-05 06:56:15,924 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NzE0NDdhYTMtMDUwMC00MDU4LTkwYTQtZDc5ZDE5OTliMzAw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=b223e967-90d8-4172-9d1a-767256721521&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 06:56:15,924 - DEBUG: Original meeting url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NzE0NDdhYTMtMDUwMC00MDU4LTkwYTQtZDc5ZDE5OTliMzAw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=b223e967-90d8-4172-9d1a-767256721521&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 06:56:15,925 - DEBUG: New meeting url generated is https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_NzE0NDdhYTMtMDUwMC00MDU4LTkwYTQtZDc5ZDE5OTliMzAw@thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%220196a2fd-1482-4961-9bf0-e0279e858d85%22%7d&anon=true&type=meetup-join&deeplinkId=b223e967-90d8-4172-9d1a-767256721521&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 06:56:15,925 - DEBUG: Read and found 16 total users in username file.
+2024-03-05 06:56:15,925 - DEBUG: Read the meeting exit time. It is 1
+2024-03-05 06:56:15,926 - DEBUG: Max number to workers are 5
+2024-03-05 06:56:15,926 - DEBUG: starting chrome driver for user -- amit
+2024-03-05 06:56:15,927 - DEBUG: starting chrome driver for user -- amit1
+2024-03-05 06:56:15,927 - DEBUG: starting chrome driver for user -- amit2
+2024-03-05 06:56:15,927 - DEBUG: starting chrome driver for user -- amit3
+2024-03-05 06:56:15,928 - DEBUG: starting chrome driver for user -- amit4
+2024-03-05 06:56:18,172 - DEBUG: Chrome driver is running for user -- amit
+2024-03-05 06:56:18,430 - DEBUG: Chrome driver is running for user -- amit4
+2024-03-05 06:56:18,552 - DEBUG: Chrome driver is running for user -- amit3
+2024-03-05 06:56:18,594 - DEBUG: Chrome driver is running for user -- amit1
+2024-03-05 06:56:18,811 - DEBUG: Chrome driver is running for user -- amit2
+2024-03-05 06:56:19,002 - DEBUG: Waiting for meeting url to load for user -- amit3
+2024-03-05 06:56:22,857 - DEBUG: Waiting for meeting url to load for user -- amit1
+2024-03-05 06:56:23,225 - DEBUG: Waiting for meeting url to load for user -- amit4
+2024-03-05 06:56:23,758 - DEBUG: Waiting for meeting url to load for user -- amit2
+2024-03-05 06:56:24,418 - DEBUG: Waiting for meeting url to load for user -- amit
+2024-03-05 06:56:35,774 - DEBUG: Meeting page is loaded for user -- amit2
+2024-03-05 06:56:35,953 - DEBUG: Meeting page is loaded for user -- amit1
+2024-03-05 06:56:35,954 - DEBUG: Meeting page is loaded for user -- amit
+2024-03-05 06:56:36,030 - DEBUG: Entered Guest username for -- amit2
+2024-03-05 06:56:36,357 - DEBUG: Entered Guest username for -- amit
+2024-03-05 06:56:36,364 - DEBUG: Entered Guest username for -- amit1
+2024-03-05 06:56:36,427 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit2
+2024-03-05 06:56:36,482 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit1
+2024-03-05 06:56:36,621 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit
+2024-03-05 06:56:36,627 - DEBUG: Meeting page is loaded for user -- amit4
+2024-03-05 06:56:36,791 - DEBUG: Entered Guest username for -- amit4
+2024-03-05 06:56:36,864 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit4
+2024-03-05 06:56:37,954 - DEBUG: Meeting page is loaded for user -- amit3
+2024-03-05 06:56:38,170 - DEBUG: Entered Guest username for -- amit3
+2024-03-05 06:56:38,412 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit3
+2024-03-05 06:56:38,762 - INFO: User amit is joining the meeting..
+2024-03-05 06:56:38,773 - INFO: User amit1 is joining the meeting..
+2024-03-05 06:56:38,944 - INFO: User amit4 is joining the meeting..
+2024-03-05 06:56:39,704 - INFO: User amit has successfully joined the meeting..
+2024-03-05 06:56:39,718 - DEBUG: starting chrome driver for user -- amit5
+2024-03-05 06:56:40,148 - INFO: User amit4 has successfully joined the meeting..
+2024-03-05 06:56:40,162 - DEBUG: starting chrome driver for user -- amit6
+2024-03-05 06:56:40,272 - INFO: User amit1 has successfully joined the meeting..
+2024-03-05 06:56:40,272 - DEBUG: starting chrome driver for user -- amit7
+2024-03-05 06:56:42,100 - INFO: User amit2 is joining the meeting..
+2024-03-05 06:56:42,649 - INFO: User amit2 has successfully joined the meeting..
+2024-03-05 06:56:42,650 - DEBUG: starting chrome driver for user -- amit8
+2024-03-05 06:56:44,790 - INFO: User amit3 is joining the meeting..
+2024-03-05 06:56:45,180 - DEBUG: Chrome driver is running for user -- amit5
+2024-03-05 06:56:45,289 - DEBUG: Chrome driver is running for user -- amit6
+2024-03-05 06:56:45,369 - DEBUG: Chrome driver is running for user -- amit7
+2024-03-05 06:56:47,272 - INFO: User amit3 has successfully joined the meeting..
+2024-03-05 06:56:47,613 - DEBUG: starting chrome driver for user -- amit9
+2024-03-05 06:56:50,311 - DEBUG: Waiting for meeting url to load for user -- amit7
+2024-03-05 06:56:52,774 - DEBUG: Waiting for meeting url to load for user -- amit6
+2024-03-05 06:56:52,853 - DEBUG: Waiting for meeting url to load for user -- amit5
+2024-03-05 06:56:59,820 - DEBUG: Chrome driver is running for user -- amit8
+2024-03-05 06:57:04,049 - DEBUG: Waiting for meeting url to load for user -- amit8
+2024-03-05 06:57:05,884 - DEBUG: Meeting page is loaded for user -- amit5
+2024-03-05 06:57:06,429 - DEBUG: Entered Guest username for -- amit5
+2024-03-05 06:57:06,509 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit5
+2024-03-05 06:57:06,968 - DEBUG: Chrome driver is running for user -- amit9
+2024-03-05 06:57:11,000 - DEBUG: Meeting page is loaded for user -- amit6
+2024-03-05 06:57:11,974 - DEBUG: Waiting for meeting url to load for user -- amit9
+2024-03-05 06:57:13,278 - DEBUG: Entered Guest username for -- amit6
+2024-03-05 06:57:14,020 - DEBUG: Meeting page is loaded for user -- amit7
+2024-03-05 06:57:14,118 - INFO: User amit5 is joining the meeting..
+2024-03-05 06:57:14,343 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit6
+2024-03-05 06:57:14,969 - INFO: User amit5 has successfully joined the meeting..
+2024-03-05 06:57:15,273 - DEBUG: starting chrome driver for user -- amit10
+2024-03-05 06:57:16,208 - DEBUG: Entered Guest username for -- amit7
+2024-03-05 06:57:16,368 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit7
+2024-03-05 06:57:16,429 - INFO: User amit6 is joining the meeting..
+2024-03-05 06:57:18,460 - INFO: User amit7 is joining the meeting..
+2024-03-05 06:57:19,301 - INFO: User amit6 has successfully joined the meeting..
+2024-03-05 06:57:19,563 - DEBUG: starting chrome driver for user -- amit11
+2024-03-05 06:57:19,761 - INFO: User amit7 has successfully joined the meeting..
+2024-03-05 06:57:19,763 - DEBUG: starting chrome driver for user -- amit12
+2024-03-05 06:57:30,179 - DEBUG: Meeting page is loaded for user -- amit8
+2024-03-05 06:57:36,595 - DEBUG: Entered Guest username for -- amit8
+2024-03-05 06:57:37,453 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit8
+2024-03-05 06:57:39,939 - DEBUG: Chrome driver is running for user -- amit10
+2024-03-05 06:57:45,759 - DEBUG: Waiting for meeting url to load for user -- amit10
+2024-03-05 06:57:45,832 - DEBUG: Chrome driver is running for user -- amit12
+2024-03-05 06:57:46,484 - DEBUG: Chrome driver is running for user -- amit11
+2024-03-05 06:57:49,105 - INFO: User amit8 is joining the meeting..
+2024-03-05 06:57:53,120 - DEBUG: Waiting for meeting url to load for user -- amit12
+2024-03-05 06:57:56,103 - DEBUG: Waiting for meeting url to load for user -- amit11
+2024-03-05 06:57:56,621 - INFO: User amit8 has successfully joined the meeting..
+2024-03-05 06:57:57,639 - DEBUG: starting chrome driver for user -- amit13
+2024-03-05 06:58:07,777 - DEBUG: Meeting page is loaded for user -- amit9
+2024-03-05 06:58:11,582 - DEBUG: Entered Guest username for -- amit9
+2024-03-05 06:58:13,603 - DEBUG: Meeting page is loaded for user -- amit10
+2024-03-05 06:58:13,910 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit9
+2024-03-05 06:58:14,191 - DEBUG: Entered Guest username for -- amit10
+2024-03-05 06:58:14,370 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit10
+2024-03-05 06:58:16,013 - INFO: User amit9 is joining the meeting..
+2024-03-05 06:58:16,984 - DEBUG: Meeting page is loaded for user -- amit12
+2024-03-05 06:58:22,195 - INFO: User amit10 is joining the meeting..
+2024-03-05 06:58:23,923 - INFO: User amit10 has successfully joined the meeting..
+2024-03-05 06:58:23,924 - DEBUG: starting chrome driver for user -- amit14
+2024-03-05 06:58:24,361 - DEBUG: Entered Guest username for -- amit12
+2024-03-05 06:58:29,024 - INFO: User amit9 has successfully joined the meeting..
+2024-03-05 06:58:29,110 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit12
+2024-03-05 06:58:29,124 - DEBUG: starting chrome driver for user -- amit15
+2024-03-05 06:58:32,323 - INFO: User amit12 is joining the meeting..
+2024-03-05 06:58:36,672 - DEBUG: Meeting page is loaded for user -- amit11
+2024-03-05 06:58:42,201 - DEBUG: Chrome driver is running for user -- amit13
+2024-03-05 06:58:42,503 - INFO: User amit12 has successfully joined the meeting..
+2024-03-05 06:58:45,780 - DEBUG: Entered Guest username for -- amit11
+2024-03-05 06:58:45,970 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit11
+2024-03-05 06:58:48,500 - INFO: User amit11 is joining the meeting..
+2024-03-05 06:58:57,192 - DEBUG: Waiting for meeting url to load for user -- amit13
+2024-03-05 06:58:57,431 - INFO: User amit11 has successfully joined the meeting..
+2024-03-05 06:59:07,040 - DEBUG: Chrome driver is running for user -- amit15
+2024-03-05 06:59:12,609 - DEBUG: Chrome driver is running for user -- amit14
+2024-03-05 06:59:14,990 - DEBUG: Waiting for meeting url to load for user -- amit15
+2024-03-05 06:59:21,443 - DEBUG: Waiting for meeting url to load for user -- amit14
+2024-03-05 09:09:31,872 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NzE0NDdhYTMtMDUwMC00MDU4LTkwYTQtZDc5ZDE5OTliMzAw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=b223e967-90d8-4172-9d1a-767256721521&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 09:09:31,872 - DEBUG: Original meeting url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NzE0NDdhYTMtMDUwMC00MDU4LTkwYTQtZDc5ZDE5OTliMzAw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=b223e967-90d8-4172-9d1a-767256721521&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 09:09:31,872 - DEBUG: New meeting url generated is https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_NzE0NDdhYTMtMDUwMC00MDU4LTkwYTQtZDc5ZDE5OTliMzAw@thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%220196a2fd-1482-4961-9bf0-e0279e858d85%22%7d&anon=true&type=meetup-join&deeplinkId=b223e967-90d8-4172-9d1a-767256721521&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 09:09:31,872 - DEBUG: Read and found 16 total users in username file.
+2024-03-05 09:09:31,872 - DEBUG: Read the meeting exit time. It is 1
+2024-03-05 09:09:31,872 - DEBUG: Max number to workers are 5
+2024-03-05 09:09:31,872 - DEBUG: starting chrome driver for user -- amit
+2024-03-05 09:09:31,872 - DEBUG: starting chrome driver for user -- amit1
+2024-03-05 09:09:31,872 - DEBUG: starting chrome driver for user -- amit2
+2024-03-05 09:09:31,872 - DEBUG: starting chrome driver for user -- amit3
+2024-03-05 09:09:31,872 - DEBUG: starting chrome driver for user -- amit4
+2024-03-05 09:09:37,832 - DEBUG: Chrome driver is running for user -- amit4
+2024-03-05 09:09:38,318 - DEBUG: Chrome driver is running for user -- amit1
+2024-03-05 09:09:38,744 - DEBUG: Chrome driver is running for user -- amit3
+2024-03-05 09:09:39,401 - DEBUG: Chrome driver is running for user -- amit2
+2024-03-05 09:09:39,657 - DEBUG: starting chrome driver for user -- amit5
+2024-03-05 09:09:40,209 - DEBUG: Chrome driver is running for user -- amit
+2024-03-05 09:09:40,350 - DEBUG: starting chrome driver for user -- amit6
+2024-03-05 09:09:40,442 - DEBUG: starting chrome driver for user -- amit7
+2024-03-05 09:09:41,152 - DEBUG: starting chrome driver for user -- amit8
+2024-03-05 09:09:42,218 - DEBUG: starting chrome driver for user -- amit9
+2024-03-05 09:09:48,070 - DEBUG: Chrome driver is running for user -- amit6
+2024-03-05 09:09:48,111 - DEBUG: Chrome driver is running for user -- amit5
+2024-03-05 09:09:48,143 - DEBUG: Chrome driver is running for user -- amit8
+2024-03-05 09:09:49,500 - DEBUG: Chrome driver is running for user -- amit7
+2024-03-05 09:09:51,223 - DEBUG: starting chrome driver for user -- amit10
+2024-03-05 09:09:51,243 - DEBUG: Chrome driver is running for user -- amit9
+2024-03-05 09:09:51,306 - DEBUG: starting chrome driver for user -- amit11
+2024-03-05 09:09:51,324 - DEBUG: starting chrome driver for user -- amit12
+2024-03-05 09:09:51,530 - DEBUG: starting chrome driver for user -- amit13
+2024-03-05 09:09:51,952 - DEBUG: starting chrome driver for user -- amit14
+2024-03-05 09:09:56,302 - DEBUG: Chrome driver is running for user -- amit13
+2024-03-05 09:09:56,494 - DEBUG: Chrome driver is running for user -- amit10
+2024-03-05 09:09:57,634 - DEBUG: Chrome driver is running for user -- amit11
+2024-03-05 09:09:58,712 - DEBUG: starting chrome driver for user -- amit15
+2024-03-05 09:09:59,424 - DEBUG: Chrome driver is running for user -- amit12
+2024-03-05 09:09:59,465 - DEBUG: Chrome driver is running for user -- amit14
+2024-03-05 09:10:02,585 - DEBUG: Chrome driver is running for user -- amit15
+2024-03-05 09:10:03,119 - INFO: Waiting for 1 minutes to close the browsers..
+2024-03-05 19:07:51,571 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 19:07:51,572 - DEBUG: Original meeting url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 19:07:51,572 - DEBUG: New meeting url generated is https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5@thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%220196a2fd-1482-4961-9bf0-e0279e858d85%22%7d&anon=true&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 19:07:51,576 - DEBUG: Read and found 20 total users in username file.
+2024-03-05 19:07:51,577 - DEBUG: Read the meeting exit time. It is 60
+2024-03-05 19:07:51,577 - DEBUG: Max number to workers are 5
+2024-03-05 19:07:51,577 - DEBUG: starting chrome driver for user -- harsh
+2024-03-05 19:07:51,578 - DEBUG: starting chrome driver for user -- hasan
+2024-03-05 19:07:51,578 - DEBUG: starting chrome driver for user -- himanshu
+2024-03-05 19:07:51,578 - DEBUG: starting chrome driver for user -- hridesh
+2024-03-05 19:07:51,579 - DEBUG: starting chrome driver for user -- indra
+2024-03-05 19:07:54,858 - DEBUG: Chrome driver is running for user -- himanshu
+2024-03-05 19:07:55,276 - DEBUG: Chrome driver is running for user -- indra
+2024-03-05 19:07:55,287 - DEBUG: Chrome driver is running for user -- hasan
+2024-03-05 19:07:55,359 - DEBUG: Chrome driver is running for user -- hridesh
+2024-03-05 19:07:55,507 - DEBUG: Waiting for meeting url to load for user -- hasan
+2024-03-05 19:07:55,730 - DEBUG: Waiting for meeting url to load for user -- indra
+2024-03-05 19:07:55,777 - DEBUG: Chrome driver is running for user -- harsh
+2024-03-05 19:07:58,525 - DEBUG: Waiting for meeting url to load for user -- hridesh
+2024-03-05 19:07:58,738 - DEBUG: Waiting for meeting url to load for user -- himanshu
+2024-03-05 19:08:00,381 - DEBUG: Waiting for meeting url to load for user -- harsh
+2024-03-05 19:08:12,168 - DEBUG: Meeting page is loaded for user -- indra
+2024-03-05 19:08:12,325 - DEBUG: Meeting page is loaded for user -- hridesh
+2024-03-05 19:08:13,274 - DEBUG: Meeting page is loaded for user -- himanshu
+2024-03-05 19:08:13,318 - DEBUG: Meeting page is loaded for user -- harsh
+2024-03-05 19:08:13,364 - DEBUG: Entered Guest username for -- indra
+2024-03-05 19:08:13,510 - DEBUG: Entered Guest username for -- harsh
+2024-03-05 19:08:13,562 - DEBUG: Disabling Mic and camera befor meeting join for user -- indra
+2024-03-05 19:08:13,622 - DEBUG: Disabling Mic and camera befor meeting join for user -- harsh
+2024-03-05 19:08:13,653 - DEBUG: Entered Guest username for -- himanshu
+2024-03-05 19:08:13,901 - DEBUG: Disabling Mic and camera befor meeting join for user -- himanshu
+2024-03-05 19:08:16,163 - DEBUG: Meeting page is loaded for user -- hasan
+2024-03-05 19:08:16,572 - DEBUG: Entered Guest username for -- hasan
+2024-03-05 19:08:16,768 - DEBUG: Disabling Mic and camera befor meeting join for user -- hasan
+2024-03-05 19:08:16,958 - DEBUG: Entered Guest username for -- hridesh
+2024-03-05 19:08:17,415 - DEBUG: Disabling Mic and camera befor meeting join for user -- hridesh
+2024-03-05 19:08:19,266 - INFO: User indra is joining the meeting..
+2024-03-05 19:08:19,904 - INFO: User himanshu is joining the meeting..
+2024-03-05 19:08:20,134 - INFO: User indra has successfully joined the meeting..
+2024-03-05 19:08:20,135 - DEBUG: starting chrome driver for user -- irshaad
+2024-03-05 19:08:20,236 - INFO: User harsh is joining the meeting..
+2024-03-05 19:08:20,462 - INFO: User himanshu has successfully joined the meeting..
+2024-03-05 19:08:20,475 - DEBUG: starting chrome driver for user -- ishan
+2024-03-05 19:08:21,258 - INFO: User harsh has successfully joined the meeting..
+2024-03-05 19:08:21,282 - DEBUG: starting chrome driver for user -- ishana
+2024-03-05 19:08:22,028 - INFO: User hasan is joining the meeting..
+2024-03-05 19:08:22,510 - INFO: User hasan has successfully joined the meeting..
+2024-03-05 19:08:22,517 - DEBUG: starting chrome driver for user -- ishita
+2024-03-05 19:08:23,347 - INFO: User hridesh is joining the meeting..
+2024-03-05 19:08:25,627 - DEBUG: Chrome driver is running for user -- irshaad
+2024-03-05 19:08:25,655 - DEBUG: Chrome driver is running for user -- ishana
+2024-03-05 19:08:25,716 - DEBUG: Chrome driver is running for user -- ishan
+2024-03-05 19:08:25,774 - INFO: User hridesh has successfully joined the meeting..
+2024-03-05 19:08:25,783 - DEBUG: starting chrome driver for user -- jatin
+2024-03-05 19:08:30,851 - DEBUG: Waiting for meeting url to load for user -- ishan
+2024-03-05 19:08:31,123 - DEBUG: Waiting for meeting url to load for user -- irshaad
+2024-03-05 19:08:32,869 - DEBUG: Waiting for meeting url to load for user -- ishana
+2024-03-05 19:08:50,798 - DEBUG: Chrome driver is running for user -- ishita
+2024-03-05 19:08:51,164 - DEBUG: Waiting for meeting url to load for user -- ishita
+2024-03-05 19:08:52,196 - DEBUG: Chrome driver is running for user -- jatin
+2024-03-05 19:08:59,607 - DEBUG: Waiting for meeting url to load for user -- jatin
+2024-03-05 19:09:02,997 - DEBUG: Meeting page is loaded for user -- ishana
+2024-03-05 19:09:05,598 - DEBUG: Meeting page is loaded for user -- ishan
+2024-03-05 19:09:12,655 - DEBUG: Meeting page is loaded for user -- irshaad
+2024-03-05 19:09:15,784 - DEBUG: Entered Guest username for -- irshaad
+2024-03-05 19:09:15,921 - DEBUG: Entered Guest username for -- ishan
+2024-03-05 19:09:16,017 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishan
+2024-03-05 19:09:16,086 - DEBUG: Disabling Mic and camera befor meeting join for user -- irshaad
+2024-03-05 19:09:18,356 - INFO: User irshaad is joining the meeting..
+2024-03-05 19:09:18,529 - INFO: User ishan is joining the meeting..
+2024-03-05 19:09:21,093 - DEBUG: Meeting page is loaded for user -- ishita
+2024-03-05 19:09:21,925 - DEBUG: Entered Guest username for -- ishita
+2024-03-05 19:09:22,069 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishita
+2024-03-05 19:09:22,246 - DEBUG: Meeting page is loaded for user -- jatin
+2024-03-05 19:09:22,721 - DEBUG: Entered Guest username for -- ishana
+2024-03-05 19:09:27,186 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishana
+2024-03-05 19:09:27,974 - INFO: User ishan has successfully joined the meeting..
+2024-03-05 19:09:28,176 - DEBUG: starting chrome driver for user -- jay
+2024-03-05 19:09:28,344 - INFO: User irshaad has successfully joined the meeting..
+2024-03-05 19:09:28,344 - DEBUG: starting chrome driver for user -- jayesh
+2024-03-05 19:09:29,773 - DEBUG: Entered Guest username for -- jatin
+2024-03-05 19:09:31,238 - INFO: User ishita is joining the meeting..
+2024-03-05 19:09:31,856 - INFO: User ishita has successfully joined the meeting..
+2024-03-05 19:09:31,856 - DEBUG: starting chrome driver for user -- Kabir
+2024-03-05 19:09:32,064 - DEBUG: Disabling Mic and camera befor meeting join for user -- jatin
+2024-03-05 19:09:40,062 - INFO: User ishana is joining the meeting..
+2024-03-05 19:09:40,488 - INFO: User jatin is joining the meeting..
+2024-03-05 19:09:41,001 - DEBUG: Chrome driver is running for user -- jay
+2024-03-05 19:09:41,497 - DEBUG: Chrome driver is running for user -- jayesh
+2024-03-05 19:09:45,995 - INFO: User ishana has successfully joined the meeting..
+2024-03-05 19:09:45,996 - DEBUG: starting chrome driver for user -- kanishk
+2024-03-05 19:09:46,168 - INFO: User jatin has successfully joined the meeting..
+2024-03-05 19:09:46,169 - DEBUG: starting chrome driver for user -- kanishka
+2024-03-05 19:09:49,679 - DEBUG: Waiting for meeting url to load for user -- jay
+2024-03-05 19:10:03,924 - DEBUG: Waiting for meeting url to load for user -- jayesh
+2024-03-05 19:10:07,524 - DEBUG: Chrome driver is running for user -- Kabir
+2024-03-05 19:10:09,774 - DEBUG: Chrome driver is running for user -- kanishk
+2024-03-05 19:10:16,067 - DEBUG: Meeting page is loaded for user -- jay
+2024-03-05 19:10:21,655 - DEBUG: Waiting for meeting url to load for user -- kanishk
+2024-03-05 19:10:31,791 - DEBUG: Chrome driver is running for user -- kanishka
+2024-03-05 19:10:43,263 - DEBUG: Entered Guest username for -- jay
+2024-03-05 19:10:49,087 - DEBUG: Waiting for meeting url to load for user -- kanishka
+2024-03-05 19:10:58,671 - DEBUG: Meeting page is loaded for user -- jayesh
+2024-03-05 19:10:59,476 - DEBUG: Entered Guest username for -- jayesh
+2024-03-05 19:11:01,548 - DEBUG: Disabling Mic and camera befor meeting join for user -- jay
+2024-03-05 19:11:06,512 - DEBUG: Disabling Mic and camera befor meeting join for user -- jayesh
+2024-03-05 19:11:07,097 - DEBUG: Meeting page is loaded for user -- kanishk
+2024-03-05 19:11:08,615 - INFO: User jayesh is joining the meeting..
+2024-03-05 19:11:10,451 - INFO: User jayesh has successfully joined the meeting..
+2024-03-05 19:11:10,673 - INFO: User jay is joining the meeting..
+2024-03-05 19:11:11,834 - DEBUG: starting chrome driver for user -- kareena
+2024-03-05 19:11:18,478 - DEBUG: Entered Guest username for -- kanishk
+2024-03-05 19:11:23,391 - INFO: User jay has successfully joined the meeting..
+2024-03-05 19:11:23,395 - DEBUG: starting chrome driver for user -- karishma
+2024-03-05 19:11:29,222 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishk
+2024-03-05 19:11:33,367 - INFO: User kanishk is joining the meeting..
+2024-03-05 19:11:34,737 - INFO: User kanishk has successfully joined the meeting..
+2024-03-05 19:11:35,187 - DEBUG: starting chrome driver for user -- kashish
+2024-03-05 19:11:38,723 - DEBUG: Waiting for meeting url to load for user -- Kabir
+2024-03-05 19:11:38,790 - DEBUG: Meeting page is loaded for user -- Kabir
+2024-03-05 19:11:44,819 - DEBUG: Chrome driver is running for user -- kareena
+2024-03-05 19:11:47,685 - DEBUG: Meeting page is loaded for user -- kanishka
+2024-03-05 19:11:50,427 - DEBUG: Entered Guest username for -- Kabir
+2024-03-05 19:11:56,683 - DEBUG: Chrome driver is running for user -- karishma
+2024-03-05 19:11:57,340 - DEBUG: Disabling Mic and camera befor meeting join for user -- Kabir
+2024-03-05 19:12:00,698 - DEBUG: Entered Guest username for -- kanishka
+2024-03-05 19:12:06,966 - DEBUG: Waiting for meeting url to load for user -- kareena
+2024-03-05 19:12:07,613 - INFO: User Kabir is joining the meeting..
+2024-03-05 19:12:10,186 - DEBUG: Waiting for meeting url to load for user -- karishma
+2024-03-05 19:12:18,664 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishka
+2024-03-05 19:12:29,509 - INFO: User Kabir has successfully joined the meeting..
+2024-03-05 19:12:30,427 - DEBUG: starting chrome driver for user -- kashvi
+2024-03-05 19:12:36,205 - INFO: User kanishka is joining the meeting..
+2024-03-05 19:12:37,915 - DEBUG: Chrome driver is running for user -- kashish
+2024-03-05 19:12:50,304 - INFO: User kanishka has successfully joined the meeting..
+2024-03-05 19:12:51,226 - DEBUG: starting chrome driver for user -- kaveri
+2024-03-05 19:12:56,985 - DEBUG: Meeting page is loaded for user -- kareena
+2024-03-05 19:12:59,328 - DEBUG: Meeting page is loaded for user -- karishma
+2024-03-05 19:13:03,467 - DEBUG: Entered Guest username for -- kareena
+2024-03-05 19:13:05,506 - DEBUG: Entered Guest username for -- karishma
+2024-03-05 19:13:10,327 - DEBUG: Waiting for meeting url to load for user -- kashish
+2024-03-05 19:13:11,234 - DEBUG: Disabling Mic and camera befor meeting join for user -- kareena
+2024-03-05 19:13:12,329 - DEBUG: Disabling Mic and camera befor meeting join for user -- karishma
+2024-03-05 19:13:17,085 - INFO: User karishma is joining the meeting..
+2024-03-05 19:13:26,147 - INFO: User karishma has successfully joined the meeting..
+2024-03-05 19:13:30,167 - INFO: User kareena is joining the meeting..
+2024-03-05 19:13:58,025 - INFO: User kareena has successfully joined the meeting..
+2024-03-05 19:14:09,035 - DEBUG: Meeting page is loaded for user -- kashish
+2024-03-05 19:14:10,167 - DEBUG: Chrome driver is running for user -- kashvi
+2024-03-05 19:14:14,648 - DEBUG: Entered Guest username for -- kashish
+2024-03-05 19:14:14,954 - DEBUG: Disabling Mic and camera befor meeting join for user -- kashish
+2024-03-05 19:14:18,447 - INFO: User kashish is joining the meeting..
+2024-03-05 19:14:23,525 - INFO: User kashish has successfully joined the meeting..
+2024-03-05 19:15:06,963 - DEBUG: Waiting for meeting url to load for user -- kashvi
+2024-03-05 19:15:15,457 - DEBUG: Chrome driver is running for user -- kaveri
+2024-03-05 19:15:22,458 - DEBUG: Waiting for meeting url to load for user -- kaveri
+2024-03-05 19:15:44,496 - DEBUG: Meeting page is loaded for user -- kashvi
+2024-03-05 19:15:45,045 - DEBUG: Entered Guest username for -- kashvi
+2024-03-05 19:15:45,544 - DEBUG: Disabling Mic and camera befor meeting join for user -- kashvi
+2024-03-05 19:15:50,504 - DEBUG: Meeting page is loaded for user -- kaveri
+2024-03-05 19:15:50,875 - INFO: User kashvi is joining the meeting..
+2024-03-05 19:15:54,748 - INFO: User kashvi has successfully joined the meeting..
+2024-03-05 19:15:57,307 - DEBUG: Entered Guest username for -- kaveri
+2024-03-05 19:15:58,501 - DEBUG: Disabling Mic and camera befor meeting join for user -- kaveri
+2024-03-05 19:16:00,984 - INFO: User kaveri is joining the meeting..
+2024-03-05 19:16:08,166 - INFO: User kaveri has successfully joined the meeting..
+2024-03-05 19:16:08,185 - INFO: Waiting for 60 minutes to close the browsers..
+2024-03-05 19:17:20,925 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 19:17:20,926 - DEBUG: Original meeting url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 19:17:20,926 - DEBUG: New meeting url generated is https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5@thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%220196a2fd-1482-4961-9bf0-e0279e858d85%22%7d&anon=true&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 19:17:20,926 - DEBUG: Read and found 20 total users in username file.
+2024-03-05 19:17:20,933 - DEBUG: Read the meeting exit time. It is 60
+2024-03-05 19:17:20,934 - DEBUG: Max number to workers are 5
+2024-03-05 19:17:20,936 - DEBUG: starting chrome driver for user -- harsh
+2024-03-05 19:17:20,936 - DEBUG: starting chrome driver for user -- hasan
+2024-03-05 19:17:20,937 - DEBUG: starting chrome driver for user -- himanshu
+2024-03-05 19:17:20,967 - DEBUG: starting chrome driver for user -- hridesh
+2024-03-05 19:17:20,968 - DEBUG: starting chrome driver for user -- indra
+2024-03-05 19:17:37,631 - DEBUG: Chrome driver is running for user -- himanshu
+2024-03-05 19:17:41,976 - DEBUG: Chrome driver is running for user -- harsh
+2024-03-05 19:17:42,317 - DEBUG: Chrome driver is running for user -- hridesh
+2024-03-05 19:17:45,527 - DEBUG: Chrome driver is running for user -- indra
+2024-03-05 19:17:55,112 - DEBUG: Waiting for meeting url to load for user -- himanshu
+2024-03-05 19:17:59,354 - DEBUG: Waiting for meeting url to load for user -- hridesh
+2024-03-05 19:18:01,076 - DEBUG: Waiting for meeting url to load for user -- harsh
+2024-03-05 19:18:01,697 - DEBUG: Chrome driver is running for user -- hasan
+2024-03-05 19:18:37,187 - DEBUG: Waiting for meeting url to load for user -- indra
+2024-03-05 19:18:45,076 - DEBUG: Waiting for meeting url to load for user -- hasan
+2024-03-05 19:25:37,844 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 19:25:37,845 - DEBUG: Original meeting url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 19:25:37,845 - DEBUG: New meeting url generated is https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5@thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%220196a2fd-1482-4961-9bf0-e0279e858d85%22%7d&anon=true&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 19:25:37,845 - DEBUG: Read and found 20 total users in username file.
+2024-03-05 19:25:37,846 - DEBUG: Read the meeting exit time. It is 60
+2024-03-05 19:25:37,846 - DEBUG: Max number to workers are 5
+2024-03-05 19:25:37,847 - DEBUG: starting chrome driver for user -- harsh
+2024-03-05 19:25:37,848 - DEBUG: starting chrome driver for user -- hasan
+2024-03-05 19:25:37,848 - DEBUG: starting chrome driver for user -- himanshu
+2024-03-05 19:25:37,848 - DEBUG: starting chrome driver for user -- hridesh
+2024-03-05 19:25:37,849 - DEBUG: starting chrome driver for user -- indra
+2024-03-05 19:25:40,514 - DEBUG: Chrome driver is running for user -- indra
+2024-03-05 19:25:40,521 - DEBUG: Chrome driver is running for user -- himanshu
+2024-03-05 19:25:40,610 - DEBUG: Chrome driver is running for user -- harsh
+2024-03-05 19:25:40,820 - DEBUG: Chrome driver is running for user -- hridesh
+2024-03-05 19:25:41,441 - DEBUG: Chrome driver is running for user -- hasan
+2024-03-05 19:25:42,875 - DEBUG: Waiting for meeting url to load for user -- himanshu
+2024-03-05 19:25:44,667 - DEBUG: Waiting for meeting url to load for user -- indra
+2024-03-05 19:25:45,263 - DEBUG: Waiting for meeting url to load for user -- hasan
+2024-03-05 19:25:45,538 - DEBUG: Waiting for meeting url to load for user -- hridesh
+2024-03-05 19:25:45,798 - DEBUG: Waiting for meeting url to load for user -- harsh
+2024-03-05 19:25:54,297 - DEBUG: Meeting page is loaded for user -- himanshu
+2024-03-05 19:25:54,602 - DEBUG: Meeting page is loaded for user -- harsh
+2024-03-05 19:25:54,648 - DEBUG: Entered Guest username for -- himanshu
+2024-03-05 19:25:54,762 - DEBUG: Entered Guest username for -- harsh
+2024-03-05 19:25:54,791 - DEBUG: Disabling Mic and camera befor meeting join for user -- himanshu
+2024-03-05 19:25:54,818 - DEBUG: Disabling Mic and camera befor meeting join for user -- harsh
+2024-03-05 19:25:55,252 - DEBUG: Meeting page is loaded for user -- hasan
+2024-03-05 19:25:55,457 - DEBUG: Entered Guest username for -- hasan
+2024-03-05 19:25:55,526 - DEBUG: Disabling Mic and camera befor meeting join for user -- hasan
+2024-03-05 19:25:56,869 - INFO: User himanshu is joining the meeting..
+2024-03-05 19:25:57,322 - INFO: User himanshu has successfully joined the meeting..
+2024-03-05 19:25:57,325 - DEBUG: starting chrome driver for user -- irshaad
+2024-03-05 19:25:57,667 - DEBUG: Meeting page is loaded for user -- hridesh
+2024-03-05 19:25:58,034 - DEBUG: Entered Guest username for -- hridesh
+2024-03-05 19:25:58,106 - DEBUG: Meeting page is loaded for user -- indra
+2024-03-05 19:25:58,107 - DEBUG: Disabling Mic and camera befor meeting join for user -- hridesh
+2024-03-05 19:25:58,575 - DEBUG: Entered Guest username for -- indra
+2024-03-05 19:25:58,746 - DEBUG: Disabling Mic and camera befor meeting join for user -- indra
+2024-03-05 19:25:59,910 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 19:25:59,913 - DEBUG: Original meeting url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 19:25:59,914 - DEBUG: New meeting url generated is https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5@thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%220196a2fd-1482-4961-9bf0-e0279e858d85%22%7d&anon=true&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 19:25:59,914 - DEBUG: Read and found 20 total users in username file.
+2024-03-05 19:25:59,915 - DEBUG: Read the meeting exit time. It is 60
+2024-03-05 19:25:59,915 - DEBUG: Max number to workers are 5
+2024-03-05 19:25:59,916 - DEBUG: starting chrome driver for user -- harsh
+2024-03-05 19:25:59,916 - DEBUG: starting chrome driver for user -- hasan
+2024-03-05 19:25:59,918 - DEBUG: starting chrome driver for user -- himanshu
+2024-03-05 19:25:59,935 - DEBUG: starting chrome driver for user -- hridesh
+2024-03-05 19:25:59,938 - DEBUG: starting chrome driver for user -- indra
+2024-03-05 19:26:00,025 - INFO: User harsh is joining the meeting..
+2024-03-05 19:26:00,183 - INFO: User hridesh is joining the meeting..
+2024-03-05 19:26:00,666 - INFO: User hridesh has successfully joined the meeting..
+2024-03-05 19:26:00,673 - DEBUG: starting chrome driver for user -- ishan
+2024-03-05 19:26:00,868 - INFO: User indra is joining the meeting..
+2024-03-05 19:26:01,583 - INFO: User harsh has successfully joined the meeting..
+2024-03-05 19:26:01,588 - INFO: User indra has successfully joined the meeting..
+2024-03-05 19:26:01,747 - DEBUG: starting chrome driver for user -- ishana
+2024-03-05 19:26:01,774 - DEBUG: starting chrome driver for user -- ishita
+2024-03-05 19:26:01,942 - INFO: User hasan is joining the meeting..
+2024-03-05 19:26:02,049 - DEBUG: Chrome driver is running for user -- irshaad
+2024-03-05 19:26:02,228 - DEBUG: Waiting for meeting url to load for user -- irshaad
+2024-03-05 19:26:03,026 - INFO: User hasan has successfully joined the meeting..
+2024-03-05 19:26:03,076 - DEBUG: starting chrome driver for user -- jatin
+2024-03-05 19:26:07,438 - DEBUG: Chrome driver is running for user -- himanshu
+2024-03-05 19:26:07,951 - DEBUG: Chrome driver is running for user -- hasan
+2024-03-05 19:26:08,627 - DEBUG: Chrome driver is running for user -- hridesh
+2024-03-05 19:26:09,186 - DEBUG: Chrome driver is running for user -- harsh
+2024-03-05 19:26:11,961 - DEBUG: Waiting for meeting url to load for user -- himanshu
+2024-03-05 19:26:12,252 - DEBUG: Chrome driver is running for user -- indra
+2024-03-05 19:26:15,119 - DEBUG: Chrome driver is running for user -- ishan
+2024-03-05 19:26:15,173 - DEBUG: Waiting for meeting url to load for user -- hridesh
+2024-03-05 19:26:19,046 - DEBUG: Waiting for meeting url to load for user -- hasan
+2024-03-05 19:26:19,817 - DEBUG: Waiting for meeting url to load for user -- indra
+2024-03-05 19:26:26,956 - DEBUG: Chrome driver is running for user -- ishita
+2024-03-05 19:26:27,687 - DEBUG: Waiting for meeting url to load for user -- ishan
+2024-03-05 19:26:28,422 - DEBUG: Chrome driver is running for user -- ishana
+2024-03-05 19:26:43,222 - DEBUG: Meeting page is loaded for user -- irshaad
+2024-03-05 19:26:43,793 - DEBUG: Entered Guest username for -- irshaad
+2024-03-05 19:26:43,936 - DEBUG: Disabling Mic and camera befor meeting join for user -- irshaad
+2024-03-05 19:26:46,040 - INFO: User irshaad is joining the meeting..
+2024-03-05 19:26:48,302 - DEBUG: Chrome driver is running for user -- jatin
+2024-03-05 19:26:49,829 - INFO: User irshaad has successfully joined the meeting..
+2024-03-05 19:26:49,830 - DEBUG: starting chrome driver for user -- jay
+2024-03-05 19:26:52,394 - DEBUG: Waiting for meeting url to load for user -- ishana
+2024-03-05 19:26:59,991 - DEBUG: Waiting for meeting url to load for user -- harsh
+2024-03-05 19:27:08,568 - DEBUG: Waiting for meeting url to load for user -- ishita
+2024-03-05 19:27:11,261 - DEBUG: Waiting for meeting url to load for user -- jatin
+2024-03-05 19:27:29,827 - DEBUG: Meeting page is loaded for user -- indra
+2024-03-05 19:27:32,399 - DEBUG: Meeting page is loaded for user -- ishan
+2024-03-05 19:27:32,739 - DEBUG: Entered Guest username for -- ishan
+2024-03-05 19:27:34,240 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishan
+2024-03-05 19:27:35,017 - DEBUG: Entered Guest username for -- indra
+2024-03-05 19:27:35,277 - DEBUG: Disabling Mic and camera befor meeting join for user -- indra
+2024-03-05 19:27:36,451 - DEBUG: Meeting page is loaded for user -- hridesh
+2024-03-05 19:27:37,456 - INFO: User indra is joining the meeting..
+2024-03-05 19:27:38,080 - DEBUG: Meeting page is loaded for user -- himanshu
+2024-03-05 19:27:38,295 - DEBUG: Entered Guest username for -- himanshu
+2024-03-05 19:27:38,915 - DEBUG: Disabling Mic and camera befor meeting join for user -- himanshu
+2024-03-05 19:27:40,636 - DEBUG: Entered Guest username for -- hridesh
+2024-03-05 19:27:40,730 - DEBUG: Meeting page is loaded for user -- hasan
+2024-03-05 19:27:41,163 - INFO: User himanshu is joining the meeting..
+2024-03-05 19:27:41,944 - INFO: User himanshu has successfully joined the meeting..
+2024-03-05 19:27:41,960 - DEBUG: starting chrome driver for user -- irshaad
+2024-03-05 19:27:42,356 - DEBUG: Disabling Mic and camera befor meeting join for user -- hridesh
+2024-03-05 19:27:44,448 - DEBUG: Meeting page is loaded for user -- jatin
+2024-03-05 19:27:44,652 - INFO: User hridesh is joining the meeting..
+2024-03-05 19:27:44,874 - DEBUG: Entered Guest username for -- jatin
+2024-03-05 19:27:45,137 - DEBUG: Disabling Mic and camera befor meeting join for user -- jatin
+2024-03-05 19:27:45,835 - INFO: User hridesh has successfully joined the meeting..
+2024-03-05 19:27:45,836 - DEBUG: starting chrome driver for user -- ishan
+2024-03-05 19:27:46,497 - DEBUG: Meeting page is loaded for user -- ishita
+2024-03-05 19:27:47,928 - DEBUG: Meeting page is loaded for user -- harsh
+2024-03-05 19:27:48,353 - DEBUG: Meeting page is loaded for user -- ishana
+2024-03-05 19:27:48,393 - INFO: User indra has successfully joined the meeting..
+2024-03-05 19:27:48,460 - DEBUG: starting chrome driver for user -- ishana
+2024-03-05 19:27:48,759 - DEBUG: Entered Guest username for -- ishita
+2024-03-05 19:27:49,573 - DEBUG: Entered Guest username for -- hasan
+2024-03-05 19:27:49,889 - INFO: User ishan is joining the meeting..
+2024-03-05 19:27:49,939 - DEBUG: Disabling Mic and camera befor meeting join for user -- hasan
+2024-03-05 19:27:50,835 - INFO: User jatin is joining the meeting..
+2024-03-05 19:27:51,804 - INFO: User jatin has successfully joined the meeting..
+2024-03-05 19:27:51,955 - DEBUG: starting chrome driver for user -- jayesh
+2024-03-05 19:27:52,013 - INFO: User hasan is joining the meeting..
+2024-03-05 19:27:52,564 - INFO: User hasan has successfully joined the meeting..
+2024-03-05 19:27:52,565 - DEBUG: starting chrome driver for user -- ishita
+2024-03-05 19:27:53,449 - INFO: User ishan has successfully joined the meeting..
+2024-03-05 19:27:53,556 - DEBUG: starting chrome driver for user -- Kabir
+2024-03-05 19:27:54,804 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishita
+2024-03-05 19:28:03,336 - INFO: User ishita is joining the meeting..
+2024-03-05 19:28:08,788 - INFO: User ishita has successfully joined the meeting..
+2024-03-05 19:28:09,068 - DEBUG: starting chrome driver for user -- kanishk
+2024-03-05 19:28:13,244 - DEBUG: Entered Guest username for -- ishana
+2024-03-05 19:28:17,437 - DEBUG: Entered Guest username for -- harsh
+2024-03-05 19:28:19,336 - DEBUG: Chrome driver is running for user -- jay
+2024-03-05 19:28:23,830 - DEBUG: Disabling Mic and camera befor meeting join for user -- harsh
+2024-03-05 19:28:24,845 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishana
+2024-03-05 19:28:25,935 - INFO: User harsh is joining the meeting..
+2024-03-05 19:28:26,998 - INFO: User ishana is joining the meeting..
+2024-03-05 19:28:28,266 - INFO: User ishana has successfully joined the meeting..
+2024-03-05 19:28:28,267 - DEBUG: starting chrome driver for user -- kanishka
+2024-03-05 19:28:28,826 - DEBUG: Waiting for meeting url to load for user -- jay
+2024-03-05 19:28:41,387 - INFO: User harsh has successfully joined the meeting..
+2024-03-05 19:28:41,395 - DEBUG: starting chrome driver for user -- jatin
+2024-03-05 19:28:44,979 - DEBUG: Chrome driver is running for user -- ishita
+2024-03-05 19:28:45,478 - DEBUG: Chrome driver is running for user -- ishan
+2024-03-05 19:28:54,826 - DEBUG: Waiting for meeting url to load for user -- ishita
+2024-03-05 19:28:57,575 - DEBUG: Chrome driver is running for user -- irshaad
+2024-03-05 19:28:58,237 - DEBUG: Meeting page is loaded for user -- jay
+2024-03-05 19:29:03,286 - DEBUG: Entered Guest username for -- jay
+2024-03-05 19:29:03,954 - DEBUG: Disabling Mic and camera befor meeting join for user -- jay
+2024-03-05 19:29:05,007 - DEBUG: Waiting for meeting url to load for user -- ishan
+2024-03-05 19:29:06,067 - DEBUG: Chrome driver is running for user -- Kabir
+2024-03-05 19:29:06,339 - INFO: User jay is joining the meeting..
+2024-03-05 19:29:11,839 - INFO: User jay has successfully joined the meeting..
+2024-03-05 19:29:11,947 - DEBUG: starting chrome driver for user -- kareena
+2024-03-05 19:29:19,136 - DEBUG: Waiting for meeting url to load for user -- irshaad
+2024-03-05 19:29:28,526 - DEBUG: Waiting for meeting url to load for user -- Kabir
+2024-03-05 19:29:32,676 - DEBUG: Meeting page is loaded for user -- ishita
+2024-03-05 19:29:34,367 - DEBUG: Chrome driver is running for user -- ishana
+2024-03-05 19:29:36,089 - DEBUG: Chrome driver is running for user -- jayesh
+2024-03-05 19:29:45,126 - DEBUG: Waiting for meeting url to load for user -- ishana
+2024-03-05 19:29:50,487 - DEBUG: Waiting for meeting url to load for user -- jayesh
+2024-03-05 19:29:57,737 - DEBUG: Entered Guest username for -- ishita
+2024-03-05 19:30:00,158 - DEBUG: Meeting page is loaded for user -- irshaad
+2024-03-05 19:30:02,037 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishita
+2024-03-05 19:30:02,678 - DEBUG: Entered Guest username for -- irshaad
+2024-03-05 19:30:02,979 - DEBUG: Disabling Mic and camera befor meeting join for user -- irshaad
+2024-03-05 19:30:04,153 - INFO: User ishita is joining the meeting..
+2024-03-05 19:30:05,099 - INFO: User irshaad is joining the meeting..
+2024-03-05 19:30:05,575 - INFO: User irshaad has successfully joined the meeting..
+2024-03-05 19:30:05,577 - DEBUG: starting chrome driver for user -- jay
+2024-03-05 19:30:10,245 - DEBUG: Chrome driver is running for user -- kanishk
+2024-03-05 19:30:18,575 - INFO: User ishita has successfully joined the meeting..
+2024-03-05 19:30:18,576 - DEBUG: starting chrome driver for user -- jayesh
+2024-03-05 19:30:24,864 - DEBUG: Meeting page is loaded for user -- ishan
+2024-03-05 19:30:27,716 - DEBUG: Chrome driver is running for user -- kanishka
+2024-03-05 19:30:30,830 - DEBUG: Chrome driver is running for user -- jatin
+2024-03-05 19:30:33,877 - DEBUG: Entered Guest username for -- ishan
+2024-03-05 19:30:35,637 - DEBUG: Waiting for meeting url to load for user -- kanishk
+2024-03-05 19:30:36,557 - DEBUG: Meeting page is loaded for user -- ishana
+2024-03-05 19:30:36,778 - DEBUG: Entered Guest username for -- ishana
+2024-03-05 19:30:37,128 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishana
+2024-03-05 19:30:39,360 - INFO: User ishana is joining the meeting..
+2024-03-05 19:30:40,407 - DEBUG: Meeting page is loaded for user -- jayesh
+2024-03-05 19:30:43,606 - DEBUG: Meeting page is loaded for user -- Kabir
+2024-03-05 19:30:44,144 - DEBUG: Entered Guest username for -- Kabir
+2024-03-05 19:30:55,177 - INFO: User ishana has successfully joined the meeting..
+2024-03-05 19:30:55,178 - DEBUG: starting chrome driver for user -- Kabir
+2024-03-05 19:30:59,237 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishan
+2024-03-05 19:31:01,179 - DEBUG: Waiting for meeting url to load for user -- jatin
+2024-03-05 19:31:02,588 - DEBUG: Waiting for meeting url to load for user -- kanishka
+2024-03-05 19:31:08,247 - DEBUG: Entered Guest username for -- jayesh
+2024-03-05 19:31:09,218 - DEBUG: Disabling Mic and camera befor meeting join for user -- Kabir
+2024-03-05 19:31:12,337 - INFO: User ishan is joining the meeting..
+2024-03-05 19:31:20,048 - DEBUG: Disabling Mic and camera befor meeting join for user -- jayesh
+2024-03-05 19:31:21,088 - INFO: User Kabir is joining the meeting..
+2024-03-05 19:31:22,354 - INFO: User jayesh is joining the meeting..
+2024-03-05 19:31:27,486 - INFO: User ishan has successfully joined the meeting..
+2024-03-05 19:31:27,488 - DEBUG: starting chrome driver for user -- kanishk
+2024-03-05 19:31:34,268 - DEBUG: Meeting page is loaded for user -- kanishk
+2024-03-05 19:31:34,918 - DEBUG: Entered Guest username for -- kanishk
+2024-03-05 19:31:35,065 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishk
+2024-03-05 19:31:35,520 - INFO: User jayesh has successfully joined the meeting..
+2024-03-05 19:31:35,569 - DEBUG: starting chrome driver for user -- karishma
+2024-03-05 19:31:40,426 - INFO: User kanishk is joining the meeting..
+2024-03-05 19:31:42,137 - INFO: User kanishk has successfully joined the meeting..
+2024-03-05 19:31:42,144 - DEBUG: starting chrome driver for user -- kashish
+2024-03-05 19:31:42,458 - DEBUG: Chrome driver is running for user -- kareena
+2024-03-05 19:31:46,016 - INFO: User Kabir has successfully joined the meeting..
+2024-03-05 19:31:47,116 - DEBUG: starting chrome driver for user -- kashvi
+2024-03-05 19:31:54,896 - DEBUG: Waiting for meeting url to load for user -- kareena
+2024-03-05 19:31:55,829 - DEBUG: Meeting page is loaded for user -- kanishka
+2024-03-05 19:32:00,818 - DEBUG: Meeting page is loaded for user -- jatin
+2024-03-05 19:32:02,156 - DEBUG: Entered Guest username for -- jatin
+2024-03-05 19:32:03,126 - DEBUG: Disabling Mic and camera befor meeting join for user -- jatin
+2024-03-05 19:32:05,436 - INFO: User jatin is joining the meeting..
+2024-03-05 19:32:10,486 - INFO: User jatin has successfully joined the meeting..
+2024-03-05 19:32:10,495 - DEBUG: starting chrome driver for user -- kanishka
+2024-03-05 19:32:17,366 - DEBUG: Chrome driver is running for user -- jay
+2024-03-05 19:32:17,959 - DEBUG: Entered Guest username for -- kanishka
+2024-03-05 19:32:34,008 - DEBUG: Waiting for meeting url to load for user -- jay
+2024-03-05 19:32:38,429 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishka
+2024-03-05 19:32:41,928 - INFO: User kanishka is joining the meeting..
+2024-03-05 19:32:44,078 - INFO: User kanishka has successfully joined the meeting..
+2024-03-05 19:32:44,079 - DEBUG: starting chrome driver for user -- kaveri
+2024-03-05 19:32:44,528 - DEBUG: Meeting page is loaded for user -- kareena
+2024-03-05 19:32:44,906 - DEBUG: Entered Guest username for -- kareena
+2024-03-05 19:32:45,030 - DEBUG: Disabling Mic and camera befor meeting join for user -- kareena
+2024-03-05 19:32:47,177 - INFO: User kareena is joining the meeting..
+2024-03-05 19:33:01,925 - INFO: User kareena has successfully joined the meeting..
+2024-03-05 19:33:06,478 - DEBUG: Chrome driver is running for user -- jayesh
+2024-03-05 19:33:33,856 - DEBUG: Chrome driver is running for user -- kanishk
+2024-03-05 19:33:35,565 - DEBUG: Chrome driver is running for user -- kanishka
+2024-03-05 19:33:36,066 - DEBUG: Chrome driver is running for user -- Kabir
+2024-03-05 19:33:54,528 - DEBUG: Chrome driver is running for user -- kashish
+2024-03-05 19:33:57,819 - DEBUG: Chrome driver is running for user -- karishma
+2024-03-05 19:34:07,696 - DEBUG: Meeting page is loaded for user -- jay
+2024-03-05 19:34:09,516 - DEBUG: Entered Guest username for -- jay
+2024-03-05 19:34:12,369 - DEBUG: Disabling Mic and camera befor meeting join for user -- jay
+2024-03-05 19:34:15,526 - INFO: User jay is joining the meeting..
+2024-03-05 19:34:21,909 - DEBUG: Waiting for meeting url to load for user -- kanishk
+2024-03-05 19:34:29,546 - DEBUG: Waiting for meeting url to load for user -- kanishka
+2024-03-05 19:34:35,237 - INFO: User jay has successfully joined the meeting..
+2024-03-05 19:34:35,238 - DEBUG: starting chrome driver for user -- kareena
+2024-03-05 19:34:38,984 - DEBUG: Waiting for meeting url to load for user -- kashish
+2024-03-05 19:34:45,737 - DEBUG: Waiting for meeting url to load for user -- karishma
+2024-03-05 19:35:35,936 - DEBUG: Waiting for meeting url to load for user -- jayesh
+2024-03-05 19:35:57,617 - DEBUG: Meeting page is loaded for user -- kanishka
+2024-03-05 19:36:03,465 - DEBUG: Entered Guest username for -- kanishka
+2024-03-05 19:36:06,034 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishka
+2024-03-05 19:36:08,217 - INFO: User kanishka is joining the meeting..
+2024-03-05 19:36:10,757 - INFO: User kanishka has successfully joined the meeting..
+2024-03-05 19:36:10,757 - DEBUG: starting chrome driver for user -- karishma
+2024-03-05 19:36:16,127 - DEBUG: Waiting for meeting url to load for user -- Kabir
+2024-03-05 19:36:18,175 - DEBUG: Meeting page is loaded for user -- karishma
+2024-03-05 19:36:23,112 - DEBUG: Meeting page is loaded for user -- kashish
+2024-03-05 19:36:23,395 - DEBUG: Entered Guest username for -- kashish
+2024-03-05 19:36:35,486 - DEBUG: Entered Guest username for -- karishma
+2024-03-05 19:36:55,755 - DEBUG: Disabling Mic and camera befor meeting join for user -- karishma
+2024-03-05 19:37:06,435 - INFO: User karishma is joining the meeting..
+2024-03-05 19:37:18,025 - INFO: User karishma has successfully joined the meeting..
+2024-03-05 19:37:24,507 - DEBUG: Meeting page is loaded for user -- jayesh
+2024-03-05 19:37:24,885 - DEBUG: Meeting page is loaded for user -- Kabir
+2024-03-05 19:37:30,305 - DEBUG: Chrome driver is running for user -- kareena
+2024-03-05 19:37:36,104 - DEBUG: Meeting page is loaded for user -- kanishk
+2024-03-05 19:37:36,852 - DEBUG: Entered Guest username for -- Kabir
+2024-03-05 19:37:37,927 - DEBUG: Disabling Mic and camera befor meeting join for user -- Kabir
+2024-03-05 19:37:38,574 - DEBUG: Waiting for meeting url to load for user -- kareena
+2024-03-05 19:37:39,328 - DEBUG: Entered Guest username for -- jayesh
+2024-03-05 19:37:42,963 - INFO: User Kabir is joining the meeting..
+2024-03-05 19:37:47,144 - DEBUG: Entered Guest username for -- kanishk
+2024-03-05 19:37:49,428 - INFO: User Kabir has successfully joined the meeting..
+2024-03-05 19:37:49,643 - DEBUG: starting chrome driver for user -- kashish
+2024-03-05 19:37:51,379 - DEBUG: Chrome driver is running for user -- karishma
+2024-03-05 19:37:57,364 - DEBUG: Disabling Mic and camera befor meeting join for user -- jayesh
+2024-03-05 19:37:59,077 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishk
+2024-03-05 19:38:02,266 - DEBUG: Waiting for meeting url to load for user -- karishma
+2024-03-05 19:38:04,997 - DEBUG: Meeting page is loaded for user -- kareena
+2024-03-05 19:38:07,795 - DEBUG: Entered Guest username for -- kareena
+2024-03-05 19:38:08,622 - DEBUG: Disabling Mic and camera befor meeting join for user -- kareena
+2024-03-05 19:38:10,907 - INFO: User kareena is joining the meeting..
+2024-03-05 19:38:11,338 - INFO: User kanishk is joining the meeting..
+2024-03-05 19:38:11,695 - INFO: User kareena has successfully joined the meeting..
+2024-03-05 19:38:11,696 - DEBUG: starting chrome driver for user -- kashvi
+2024-03-05 19:38:18,858 - INFO: User jayesh is joining the meeting..
+2024-03-05 19:38:21,877 - DEBUG: Chrome driver is running for user -- kashish
+2024-03-05 19:38:25,835 - DEBUG: Waiting for meeting url to load for user -- kashish
+2024-03-05 19:38:30,005 - DEBUG: Disabling Mic and camera befor meeting join for user -- kashish
+2024-03-05 19:38:32,168 - INFO: User kashish is joining the meeting..
+2024-03-05 19:38:32,795 - INFO: User kashish has successfully joined the meeting..
+2024-03-05 19:38:40,396 - DEBUG: Chrome driver is running for user -- kashvi
+2024-03-05 19:38:41,167 - INFO: User kanishk has successfully joined the meeting..
+2024-03-05 19:38:41,178 - DEBUG: starting chrome driver for user -- kaveri
+2024-03-05 19:38:46,657 - DEBUG: Meeting page is loaded for user -- karishma
+2024-03-05 19:38:47,995 - DEBUG: Waiting for meeting url to load for user -- kashvi
+2024-03-05 19:38:51,067 - DEBUG: Entered Guest username for -- karishma
+2024-03-05 19:38:51,777 - INFO: User jayesh has successfully joined the meeting..
+2024-03-05 19:38:56,585 - DEBUG: Disabling Mic and camera befor meeting join for user -- karishma
+2024-03-05 19:39:05,969 - INFO: User karishma is joining the meeting..
+2024-03-05 19:39:10,423 - DEBUG: Meeting page is loaded for user -- kashish
+2024-03-05 19:39:10,704 - DEBUG: Entered Guest username for -- kashish
+2024-03-05 19:39:10,841 - DEBUG: Disabling Mic and camera befor meeting join for user -- kashish
+2024-03-05 19:39:13,198 - INFO: User kashish is joining the meeting..
+2024-03-05 19:39:14,075 - INFO: User karishma has successfully joined the meeting..
+2024-03-05 19:39:16,238 - DEBUG: Chrome driver is running for user -- kaveri
+2024-03-05 19:39:25,558 - DEBUG: Waiting for meeting url to load for user -- kaveri
+2024-03-05 19:39:32,157 - INFO: User kashish has successfully joined the meeting..
+2024-03-05 19:39:36,817 - DEBUG: Meeting page is loaded for user -- kashvi
+2024-03-05 19:39:37,644 - DEBUG: Entered Guest username for -- kashvi
+2024-03-05 19:39:38,465 - DEBUG: Disabling Mic and camera befor meeting join for user -- kashvi
+2024-03-05 19:39:42,388 - INFO: User kashvi is joining the meeting..
+2024-03-05 19:39:43,967 - INFO: User kashvi has successfully joined the meeting..
+2024-03-05 19:40:11,496 - DEBUG: Meeting page is loaded for user -- kaveri
+2024-03-05 19:40:11,885 - DEBUG: Entered Guest username for -- kaveri
+2024-03-05 19:40:11,997 - DEBUG: Disabling Mic and camera befor meeting join for user -- kaveri
+2024-03-05 19:40:14,398 - INFO: User kaveri is joining the meeting..
+2024-03-05 19:40:16,936 - INFO: User kaveri has successfully joined the meeting..
+2024-03-05 19:40:17,064 - INFO: Waiting for 60 minutes to close the browsers..
+2024-03-05 20:32:51,318 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 20:32:51,318 - DEBUG: Original meeting url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 20:32:51,319 - DEBUG: New meeting url generated is https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5@thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%220196a2fd-1482-4961-9bf0-e0279e858d85%22%7d&anon=true&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 20:32:51,324 - DEBUG: Read and found 20 total users in username file.
+2024-03-05 20:32:51,325 - DEBUG: Read the meeting exit time. It is 60
+2024-03-05 20:32:51,325 - DEBUG: Max number to workers are 5
+2024-03-05 20:32:51,326 - DEBUG: starting chrome driver for user -- harsh
+2024-03-05 20:32:51,326 - DEBUG: starting chrome driver for user -- hasan
+2024-03-05 20:32:51,326 - DEBUG: starting chrome driver for user -- himanshu
+2024-03-05 20:32:51,326 - DEBUG: starting chrome driver for user -- hridesh
+2024-03-05 20:32:51,327 - DEBUG: starting chrome driver for user -- indra
+2024-03-05 20:32:54,627 - DEBUG: Chrome driver is running for user -- hasan
+2024-03-05 20:32:54,628 - DEBUG: Chrome driver is running for user -- harsh
+2024-03-05 20:32:54,650 - DEBUG: Chrome driver is running for user -- hridesh
+2024-03-05 20:32:54,738 - DEBUG: Chrome driver is running for user -- himanshu
+2024-03-05 20:32:54,795 - DEBUG: Chrome driver is running for user -- indra
+2024-03-05 20:32:57,043 - DEBUG: Waiting for meeting url to load for user -- harsh
+2024-03-05 20:32:58,314 - DEBUG: Waiting for meeting url to load for user -- indra
+2024-03-05 20:32:58,510 - DEBUG: Waiting for meeting url to load for user -- hasan
+2024-03-05 20:32:59,076 - DEBUG: Waiting for meeting url to load for user -- himanshu
+2024-03-05 20:32:59,089 - DEBUG: Waiting for meeting url to load for user -- hridesh
+2024-03-05 20:33:09,889 - DEBUG: Meeting page is loaded for user -- harsh
+2024-03-05 20:33:10,049 - DEBUG: Entered Guest username for -- harsh
+2024-03-05 20:33:10,120 - DEBUG: Meeting page is loaded for user -- indra
+2024-03-05 20:33:10,222 - DEBUG: Disabling Mic and camera befor meeting join for user -- harsh
+2024-03-05 20:33:10,411 - DEBUG: Entered Guest username for -- indra
+2024-03-05 20:33:10,473 - DEBUG: Disabling Mic and camera befor meeting join for user -- indra
+2024-03-05 20:33:12,600 - INFO: User indra is joining the meeting..
+2024-03-05 20:33:13,103 - DEBUG: Meeting page is loaded for user -- hridesh
+2024-03-05 20:33:13,285 - DEBUG: Meeting page is loaded for user -- hasan
+2024-03-05 20:33:13,632 - DEBUG: Entered Guest username for -- hasan
+2024-03-05 20:33:13,679 - INFO: User indra has successfully joined the meeting..
+2024-03-05 20:33:13,679 - DEBUG: starting chrome driver for user -- irshaad
+2024-03-05 20:33:13,712 - DEBUG: Disabling Mic and camera befor meeting join for user -- hasan
+2024-03-05 20:33:13,828 - DEBUG: Entered Guest username for -- hridesh
+2024-03-05 20:33:14,051 - DEBUG: Disabling Mic and camera befor meeting join for user -- hridesh
+2024-03-05 20:33:14,950 - DEBUG: Meeting page is loaded for user -- himanshu
+2024-03-05 20:33:15,217 - DEBUG: Entered Guest username for -- himanshu
+2024-03-05 20:33:15,301 - DEBUG: Disabling Mic and camera befor meeting join for user -- himanshu
+2024-03-05 20:33:15,319 - INFO: User harsh is joining the meeting..
+2024-03-05 20:33:15,919 - INFO: User harsh has successfully joined the meeting..
+2024-03-05 20:33:15,931 - DEBUG: starting chrome driver for user -- ishan
+2024-03-05 20:33:18,152 - DEBUG: Chrome driver is running for user -- irshaad
+2024-03-05 20:33:18,997 - INFO: User hridesh is joining the meeting..
+2024-03-05 20:33:19,759 - INFO: User hasan is joining the meeting..
+2024-03-05 20:33:19,966 - INFO: User hridesh has successfully joined the meeting..
+2024-03-05 20:33:19,966 - DEBUG: starting chrome driver for user -- ishana
+2024-03-05 20:33:20,666 - INFO: User hasan has successfully joined the meeting..
+2024-03-05 20:33:20,667 - DEBUG: starting chrome driver for user -- ishita
+2024-03-05 20:33:20,724 - DEBUG: Chrome driver is running for user -- ishan
+2024-03-05 20:33:21,237 - INFO: User himanshu is joining the meeting..
+2024-03-05 20:33:21,608 - DEBUG: Waiting for meeting url to load for user -- irshaad
+2024-03-05 20:33:22,679 - INFO: User himanshu has successfully joined the meeting..
+2024-03-05 20:33:22,679 - DEBUG: starting chrome driver for user -- jatin
+2024-03-05 20:33:25,971 - DEBUG: Waiting for meeting url to load for user -- ishan
+2024-03-05 20:33:29,676 - DEBUG: Chrome driver is running for user -- ishita
+2024-03-05 20:33:31,776 - DEBUG: Chrome driver is running for user -- ishana
+2024-03-05 20:33:35,234 - DEBUG: Waiting for meeting url to load for user -- ishita
+2024-03-05 20:33:35,385 - DEBUG: Chrome driver is running for user -- jatin
+2024-03-05 20:33:37,084 - DEBUG: Meeting page is loaded for user -- irshaad
+2024-03-05 20:33:37,931 - DEBUG: Entered Guest username for -- irshaad
+2024-03-05 20:33:38,243 - DEBUG: Disabling Mic and camera befor meeting join for user -- irshaad
+2024-03-05 20:33:40,091 - DEBUG: Waiting for meeting url to load for user -- ishana
+2024-03-05 20:33:42,648 - DEBUG: Waiting for meeting url to load for user -- jatin
+2024-03-05 20:33:43,648 - INFO: User irshaad is joining the meeting..
+2024-03-05 20:33:45,491 - DEBUG: Meeting page is loaded for user -- ishan
+2024-03-05 20:33:46,185 - INFO: User irshaad has successfully joined the meeting..
+2024-03-05 20:33:46,185 - DEBUG: starting chrome driver for user -- jay
+2024-03-05 20:33:47,991 - DEBUG: Entered Guest username for -- ishan
+2024-03-05 20:33:55,541 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishan
+2024-03-05 20:34:01,098 - DEBUG: Meeting page is loaded for user -- jatin
+2024-03-05 20:34:03,425 - DEBUG: Entered Guest username for -- jatin
+2024-03-05 20:34:06,242 - DEBUG: Disabling Mic and camera befor meeting join for user -- jatin
+2024-03-05 20:34:08,345 - DEBUG: Meeting page is loaded for user -- ishana
+2024-03-05 20:34:10,779 - INFO: User jatin is joining the meeting..
+2024-03-05 20:34:14,069 - INFO: User jatin has successfully joined the meeting..
+2024-03-05 20:34:14,069 - DEBUG: starting chrome driver for user -- jayesh
+2024-03-05 20:34:16,498 - DEBUG: Meeting page is loaded for user -- ishita
+2024-03-05 20:34:17,878 - DEBUG: Entered Guest username for -- ishana
+2024-03-05 20:34:18,668 - INFO: User ishan is joining the meeting..
+2024-03-05 20:34:21,121 - DEBUG: Entered Guest username for -- ishita
+2024-03-05 20:34:21,219 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishita
+2024-03-05 20:34:21,220 - INFO: User ishan has successfully joined the meeting..
+2024-03-05 20:34:21,221 - DEBUG: starting chrome driver for user -- Kabir
+2024-03-05 20:34:22,041 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishana
+2024-03-05 20:34:23,231 - DEBUG: Chrome driver is running for user -- jay
+2024-03-05 20:34:23,329 - INFO: User ishita is joining the meeting..
+2024-03-05 20:34:24,864 - INFO: User ishana is joining the meeting..
+2024-03-05 20:34:26,269 - INFO: User ishita has successfully joined the meeting..
+2024-03-05 20:34:27,040 - DEBUG: starting chrome driver for user -- kanishk
+2024-03-05 20:34:32,449 - DEBUG: Waiting for meeting url to load for user -- jay
+2024-03-05 20:34:55,739 - INFO: User ishana has successfully joined the meeting..
+2024-03-05 20:34:55,877 - DEBUG: starting chrome driver for user -- kanishka
+2024-03-05 20:35:15,887 - DEBUG: Chrome driver is running for user -- jayesh
+2024-03-05 20:35:26,121 - DEBUG: Chrome driver is running for user -- Kabir
+2024-03-05 20:35:26,948 - DEBUG: Waiting for meeting url to load for user -- jayesh
+2024-03-05 20:35:36,411 - DEBUG: Meeting page is loaded for user -- jay
+2024-03-05 20:35:42,121 - DEBUG: Entered Guest username for -- jay
+2024-03-05 20:35:43,339 - DEBUG: Waiting for meeting url to load for user -- Kabir
+2024-03-05 20:35:45,469 - DEBUG: Disabling Mic and camera befor meeting join for user -- jay
+2024-03-05 20:35:46,045 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 20:35:46,046 - DEBUG: Original meeting url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 20:35:46,046 - DEBUG: New meeting url generated is https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_Mjg0NjA0MTItZTY0OC00OGUxLWIyNTEtYzEyZmFhYmVhNjE5@thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%220196a2fd-1482-4961-9bf0-e0279e858d85%22%7d&anon=true&type=meetup-join&deeplinkId=06d79a79-b5e3-4074-824c-f8f5263ab5e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-05 20:35:46,047 - DEBUG: Read and found 20 total users in username file.
+2024-03-05 20:35:46,047 - DEBUG: Read the meeting exit time. It is 60
+2024-03-05 20:35:46,047 - DEBUG: Max number to workers are 5
+2024-03-05 20:35:46,909 - DEBUG: starting chrome driver for user -- harsh
+2024-03-05 20:35:47,689 - INFO: User jay is joining the meeting..
+2024-03-05 20:35:48,956 - DEBUG: starting chrome driver for user -- hasan
+2024-03-05 20:35:50,598 - DEBUG: starting chrome driver for user -- himanshu
+2024-03-05 20:35:53,118 - DEBUG: starting chrome driver for user -- hridesh
+2024-03-05 20:35:54,239 - DEBUG: starting chrome driver for user -- indra
+2024-03-05 20:36:12,897 - INFO: User jay has successfully joined the meeting..
+2024-03-05 20:36:12,905 - DEBUG: starting chrome driver for user -- kareena
+2024-03-05 20:36:14,969 - DEBUG: Chrome driver is running for user -- kanishk
+2024-03-05 20:36:15,129 - DEBUG: Meeting page is loaded for user -- jayesh
+2024-03-05 20:36:30,602 - DEBUG: Waiting for meeting url to load for user -- kanishk
+2024-03-05 20:36:32,401 - DEBUG: Chrome driver is running for user -- kanishka
+2024-03-05 20:36:33,570 - DEBUG: Entered Guest username for -- jayesh
+2024-03-05 20:36:34,308 - DEBUG: Meeting page is loaded for user -- Kabir
+2024-03-05 20:36:44,559 - DEBUG: Disabling Mic and camera befor meeting join for user -- jayesh
+2024-03-05 20:36:50,420 - DEBUG: Waiting for meeting url to load for user -- kanishka
+2024-03-05 20:36:59,408 - DEBUG: Entered Guest username for -- Kabir
+2024-03-05 20:37:12,189 - DEBUG: Meeting page is loaded for user -- kanishk
+2024-03-05 20:37:14,430 - DEBUG: Disabling Mic and camera befor meeting join for user -- Kabir
+2024-03-05 20:37:18,429 - INFO: User jayesh is joining the meeting..
+2024-03-05 20:37:21,197 - DEBUG: Chrome driver is running for user -- hridesh
+2024-03-05 20:37:21,328 - INFO: User Kabir is joining the meeting..
+2024-03-05 20:37:22,651 - DEBUG: Chrome driver is running for user -- himanshu
+2024-03-05 20:37:23,159 - DEBUG: Chrome driver is running for user -- indra
+2024-03-05 20:37:23,377 - DEBUG: Entered Guest username for -- kanishk
+2024-03-05 20:37:26,786 - INFO: User Kabir has successfully joined the meeting..
+2024-03-05 20:37:27,728 - DEBUG: starting chrome driver for user -- karishma
+2024-03-05 20:37:27,950 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishk
+2024-03-05 20:37:27,958 - DEBUG: Chrome driver is running for user -- hasan
+2024-03-05 20:37:29,030 - INFO: User jayesh has successfully joined the meeting..
+2024-03-05 20:37:31,167 - DEBUG: starting chrome driver for user -- kashish
+2024-03-05 20:37:37,969 - DEBUG: Waiting for meeting url to load for user -- hridesh
+2024-03-05 20:37:48,769 - DEBUG: Chrome driver is running for user -- kareena
+2024-03-05 20:37:52,835 - DEBUG: Waiting for meeting url to load for user -- indra
+2024-03-05 20:37:53,861 - DEBUG: Meeting page is loaded for user -- kanishka
+2024-03-05 20:37:54,667 - DEBUG: Waiting for meeting url to load for user -- hasan
+2024-03-05 20:37:54,874 - DEBUG: Waiting for meeting url to load for user -- himanshu
+2024-03-05 20:38:04,181 - INFO: User kanishk is joining the meeting..
+2024-03-05 20:38:04,838 - DEBUG: Chrome driver is running for user -- harsh
+2024-03-05 20:38:18,819 - DEBUG: Entered Guest username for -- kanishka
+2024-03-05 20:38:21,007 - DEBUG: Waiting for meeting url to load for user -- kareena
+2024-03-05 20:38:28,740 - DEBUG: Waiting for meeting url to load for user -- harsh
+2024-03-05 20:38:49,351 - INFO: User kanishk has successfully joined the meeting..
+2024-03-05 20:38:49,352 - DEBUG: starting chrome driver for user -- kashvi
+2024-03-05 20:38:56,400 - DEBUG: Meeting page is loaded for user -- hasan
+2024-03-05 20:39:01,242 - DEBUG: Entered Guest username for -- hasan
+2024-03-05 20:39:01,409 - DEBUG: Disabling Mic and camera befor meeting join for user -- hasan
+2024-03-05 20:39:04,832 - INFO: User hasan is joining the meeting..
+2024-03-05 20:39:05,471 - INFO: User hasan has successfully joined the meeting..
+2024-03-05 20:39:06,450 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishka
+2024-03-05 20:39:06,915 - DEBUG: starting chrome driver for user -- irshaad
+2024-03-05 20:39:12,150 - DEBUG: Meeting page is loaded for user -- hridesh
+2024-03-05 20:39:19,941 - DEBUG: Entered Guest username for -- hridesh
+2024-03-05 20:39:20,399 - DEBUG: Disabling Mic and camera befor meeting join for user -- hridesh
+2024-03-05 20:39:22,987 - INFO: User hridesh is joining the meeting..
+2024-03-05 20:39:26,275 - INFO: User hridesh has successfully joined the meeting..
+2024-03-05 20:39:26,536 - DEBUG: starting chrome driver for user -- ishan
+2024-03-05 20:39:28,061 - DEBUG: Meeting page is loaded for user -- harsh
+2024-03-05 20:39:32,690 - DEBUG: Entered Guest username for -- harsh
+2024-03-05 20:39:33,628 - INFO: User kanishka is joining the meeting..
+2024-03-05 20:39:38,386 - DEBUG: Disabling Mic and camera befor meeting join for user -- harsh
+2024-03-05 20:39:40,490 - INFO: User harsh is joining the meeting..
+2024-03-05 20:39:42,720 - INFO: User harsh has successfully joined the meeting..
+2024-03-05 20:39:43,865 - DEBUG: starting chrome driver for user -- ishana
+2024-03-05 20:39:52,657 - DEBUG: Meeting page is loaded for user -- indra
+2024-03-05 20:39:54,125 - DEBUG: Entered Guest username for -- indra
+2024-03-05 20:39:56,198 - DEBUG: Meeting page is loaded for user -- kareena
+2024-03-05 20:39:58,849 - DEBUG: Meeting page is loaded for user -- himanshu
+2024-03-05 20:39:59,238 - DEBUG: Entered Guest username for -- kareena
+2024-03-05 20:39:59,486 - DEBUG: Disabling Mic and camera befor meeting join for user -- kareena
+2024-03-05 20:39:59,970 - INFO: User kanishka has successfully joined the meeting..
+2024-03-05 20:40:00,297 - DEBUG: starting chrome driver for user -- kaveri
+2024-03-05 20:40:01,650 - DEBUG: Entered Guest username for -- himanshu
+2024-03-05 20:40:01,690 - INFO: User kareena is joining the meeting..
+2024-03-05 20:40:02,657 - DEBUG: Disabling Mic and camera befor meeting join for user -- himanshu
+2024-03-05 20:40:03,859 - INFO: User kareena has successfully joined the meeting..
+2024-03-05 20:40:04,890 - INFO: User himanshu is joining the meeting..
+2024-03-05 20:40:06,377 - DEBUG: Disabling Mic and camera befor meeting join for user -- indra
+2024-03-05 20:40:08,710 - INFO: User indra is joining the meeting..
+2024-03-05 20:40:09,831 - INFO: User indra has successfully joined the meeting..
+2024-03-05 20:40:09,837 - DEBUG: starting chrome driver for user -- ishita
+2024-03-05 20:40:11,671 - DEBUG: Chrome driver is running for user -- kashish
+2024-03-05 20:40:21,627 - INFO: User himanshu has successfully joined the meeting..
+2024-03-05 20:40:21,637 - DEBUG: starting chrome driver for user -- jatin
+2024-03-05 20:40:23,080 - DEBUG: Chrome driver is running for user -- karishma
+2024-03-05 20:40:30,538 - DEBUG: Waiting for meeting url to load for user -- kashish
+2024-03-05 20:40:34,308 - DEBUG: Waiting for meeting url to load for user -- karishma
+2024-03-05 20:41:00,200 - DEBUG: Chrome driver is running for user -- ishan
+2024-03-05 20:41:05,625 - DEBUG: Chrome driver is running for user -- kashvi
+2024-03-05 20:41:08,687 - DEBUG: Meeting page is loaded for user -- kashish
+2024-03-05 20:41:09,040 - DEBUG: Entered Guest username for -- kashish
+2024-03-05 20:41:09,246 - DEBUG: Disabling Mic and camera befor meeting join for user -- kashish
+2024-03-05 20:41:10,603 - DEBUG: Waiting for meeting url to load for user -- ishan
+2024-03-05 20:41:11,360 - INFO: User kashish is joining the meeting..
+2024-03-05 20:41:12,900 - INFO: User kashish has successfully joined the meeting..
+2024-03-05 20:41:15,603 - DEBUG: Meeting page is loaded for user -- karishma
+2024-03-05 20:41:15,987 - DEBUG: Entered Guest username for -- karishma
+2024-03-05 20:41:16,135 - DEBUG: Disabling Mic and camera befor meeting join for user -- karishma
+2024-03-05 20:41:18,238 - INFO: User karishma is joining the meeting..
+2024-03-05 20:41:22,300 - INFO: User karishma has successfully joined the meeting..
+2024-03-05 20:41:36,698 - DEBUG: Chrome driver is running for user -- kaveri
+2024-03-05 20:41:45,538 - DEBUG: Waiting for meeting url to load for user -- kashvi
+2024-03-05 20:41:46,147 - DEBUG: Chrome driver is running for user -- ishita
+2024-03-05 20:41:57,705 - DEBUG: Chrome driver is running for user -- ishana
+2024-03-05 20:42:34,706 - DEBUG: Chrome driver is running for user -- irshaad
+2024-03-05 20:42:36,119 - DEBUG: Chrome driver is running for user -- jatin
+2024-03-05 20:42:50,209 - DEBUG: Meeting page is loaded for user -- ishan
+2024-03-05 20:42:53,009 - DEBUG: Entered Guest username for -- ishan
+2024-03-05 20:42:53,287 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishan
+2024-03-05 20:42:53,419 - DEBUG: Waiting for meeting url to load for user -- ishana
+2024-03-05 20:42:55,938 - INFO: User ishan is joining the meeting..
+2024-03-05 20:43:04,716 - INFO: User ishan has successfully joined the meeting..
+2024-03-05 20:43:08,456 - DEBUG: starting chrome driver for user -- jay
+2024-03-05 20:43:08,770 - DEBUG: Meeting page is loaded for user -- kashvi
+2024-03-05 20:43:29,974 - DEBUG: Waiting for meeting url to load for user -- kaveri
+2024-03-05 20:43:32,926 - DEBUG: Entered Guest username for -- kashvi
+2024-03-05 20:43:59,227 - DEBUG: Waiting for meeting url to load for user -- irshaad
+2024-03-05 20:44:04,826 - DEBUG: Waiting for meeting url to load for user -- jatin
+2024-03-05 20:44:17,180 - DEBUG: Disabling Mic and camera befor meeting join for user -- kashvi
+2024-03-05 20:44:18,368 - DEBUG: Meeting page is loaded for user -- ishana
+2024-03-05 20:44:23,376 - DEBUG: Entered Guest username for -- ishana
+2024-03-05 20:44:23,868 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishana
+2024-03-05 20:44:26,739 - INFO: User ishana is joining the meeting..
+2024-03-05 20:45:06,209 - INFO: User ishana has successfully joined the meeting..
+2024-03-05 20:45:06,219 - DEBUG: starting chrome driver for user -- jayesh
+2024-03-05 20:45:12,058 - INFO: User kashvi is joining the meeting..
+2024-03-05 20:45:15,127 - DEBUG: Meeting page is loaded for user -- jatin
+2024-03-05 20:45:15,408 - DEBUG: Entered Guest username for -- jatin
+2024-03-05 20:45:36,216 - DEBUG: Disabling Mic and camera befor meeting join for user -- jatin
+2024-03-05 20:45:37,060 - INFO: User kashvi has successfully joined the meeting..
+2024-03-05 20:45:38,415 - INFO: User jatin is joining the meeting..
+2024-03-05 20:45:41,366 - INFO: User jatin has successfully joined the meeting..
+2024-03-05 20:45:41,367 - DEBUG: starting chrome driver for user -- Kabir
+2024-03-05 20:46:14,166 - DEBUG: Meeting page is loaded for user -- irshaad
+2024-03-05 20:46:36,845 - DEBUG: Entered Guest username for -- irshaad
+2024-03-05 20:46:46,245 - DEBUG: starting chrome driver for user -- kanishk
+2024-03-05 20:46:58,449 - DEBUG: Chrome driver is running for user -- jayesh
+2024-03-05 20:46:58,677 - DEBUG: Chrome driver is running for user -- Kabir
+2024-03-05 20:47:00,137 - DEBUG: Disabling Mic and camera befor meeting join for user -- irshaad
+2024-03-05 20:47:03,465 - DEBUG: Chrome driver is running for user -- jay
+2024-03-05 20:47:17,864 - INFO: User irshaad is joining the meeting..
+2024-03-05 20:47:22,405 - DEBUG: Waiting for meeting url to load for user -- jayesh
+2024-03-05 20:47:27,235 - DEBUG: Waiting for meeting url to load for user -- Kabir
+2024-03-05 20:47:51,926 - INFO: User irshaad has successfully joined the meeting..
+2024-03-05 20:47:52,967 - DEBUG: starting chrome driver for user -- kanishka
+2024-03-05 20:47:53,966 - DEBUG: Waiting for meeting url to load for user -- jay
+2024-03-05 20:48:29,722 - DEBUG: Meeting page is loaded for user -- jayesh
+2024-03-05 20:48:35,766 - DEBUG: Meeting page is loaded for user -- Kabir
+2024-03-05 20:48:40,296 - DEBUG: Entered Guest username for -- Kabir
+2024-03-05 20:48:45,589 - DEBUG: Meeting page is loaded for user -- jay
+2024-03-05 20:48:45,918 - DEBUG: Entered Guest username for -- jayesh
+2024-03-05 20:48:46,918 - DEBUG: Entered Guest username for -- jay
+2024-03-05 20:48:48,080 - DEBUG: Disabling Mic and camera befor meeting join for user -- Kabir
+2024-03-05 20:48:50,978 - DEBUG: Disabling Mic and camera befor meeting join for user -- jay
+2024-03-05 20:48:53,508 - DEBUG: Disabling Mic and camera befor meeting join for user -- jayesh
+2024-03-05 20:48:54,535 - INFO: User Kabir is joining the meeting..
+2024-03-05 20:48:55,494 - INFO: User jay is joining the meeting..
+2024-03-05 20:49:20,798 - DEBUG: Chrome driver is running for user -- kanishka
+2024-03-05 20:49:27,929 - INFO: User Kabir has successfully joined the meeting..
+2024-03-05 20:49:32,679 - DEBUG: starting chrome driver for user -- kareena
+2024-03-05 20:49:44,818 - DEBUG: Waiting for meeting url to load for user -- kanishka
+2024-03-05 20:49:51,814 - DEBUG: Chrome driver is running for user -- kanishk
+2024-03-05 20:49:53,818 - INFO: User jayesh is joining the meeting..
+2024-03-05 20:50:13,768 - INFO: User jay has successfully joined the meeting..
+2024-03-05 20:50:13,769 - DEBUG: starting chrome driver for user -- karishma
+2024-03-05 20:50:23,012 - DEBUG: Waiting for meeting url to load for user -- kanishk
+2024-03-05 20:50:24,627 - INFO: User jayesh has successfully joined the meeting..
+2024-03-05 20:50:24,631 - DEBUG: starting chrome driver for user -- kashish
+2024-03-05 20:51:04,279 - DEBUG: Meeting page is loaded for user -- kanishka
+2024-03-05 20:51:19,124 - DEBUG: Entered Guest username for -- kanishka
+2024-03-05 20:51:29,056 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishka
+2024-03-05 20:51:44,356 - INFO: User kanishka is joining the meeting..
+2024-03-05 20:52:16,178 - DEBUG: Meeting page is loaded for user -- kanishk
+2024-03-05 20:52:19,746 - INFO: User kanishka has successfully joined the meeting..
+2024-03-05 20:52:21,406 - DEBUG: starting chrome driver for user -- kashvi
+2024-03-05 20:52:30,019 - DEBUG: Entered Guest username for -- kanishk
+2024-03-05 20:52:31,945 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishk
+2024-03-05 20:52:36,645 - INFO: User kanishk is joining the meeting..
+2024-03-05 20:52:37,649 - INFO: User kanishk has successfully joined the meeting..
+2024-03-05 20:52:37,649 - DEBUG: starting chrome driver for user -- kaveri
+2024-03-05 20:53:01,786 - DEBUG: Chrome driver is running for user -- kareena
+2024-03-05 20:53:19,443 - DEBUG: Waiting for meeting url to load for user -- kareena
+2024-03-05 20:53:30,528 - DEBUG: Chrome driver is running for user -- karishma
+2024-03-05 20:53:53,588 - DEBUG: Waiting for meeting url to load for user -- karishma
+2024-03-05 20:54:02,277 - DEBUG: Chrome driver is running for user -- kashish
+2024-03-05 20:54:20,486 - DEBUG: Meeting page is loaded for user -- kareena
+2024-03-05 20:54:21,025 - DEBUG: Entered Guest username for -- kareena
+2024-03-05 20:54:21,207 - DEBUG: Disabling Mic and camera befor meeting join for user -- kareena
+2024-03-05 20:54:23,564 - INFO: User kareena is joining the meeting..
+2024-03-05 20:54:33,616 - INFO: User kareena has successfully joined the meeting..
+2024-03-05 20:54:34,167 - DEBUG: Waiting for meeting url to load for user -- kashish
+2024-03-05 20:54:45,365 - DEBUG: Meeting page is loaded for user -- karishma
+2024-03-05 20:54:45,815 - DEBUG: Entered Guest username for -- karishma
+2024-03-05 20:54:48,578 - DEBUG: Disabling Mic and camera befor meeting join for user -- karishma
+2024-03-05 20:54:50,808 - DEBUG: Chrome driver is running for user -- kaveri
+2024-03-05 20:54:50,892 - INFO: User karishma is joining the meeting..
+2024-03-05 20:54:51,944 - INFO: User karishma has successfully joined the meeting..
+2024-03-05 20:54:56,507 - DEBUG: Chrome driver is running for user -- kashvi
+2024-03-05 20:55:12,907 - DEBUG: Waiting for meeting url to load for user -- kaveri
+2024-03-05 20:56:00,996 - DEBUG: Waiting for meeting url to load for user -- kashvi
+2024-03-05 20:56:13,474 - DEBUG: Meeting page is loaded for user -- kaveri
+2024-03-05 20:56:54,672 - DEBUG: Entered Guest username for -- kaveri
+2024-03-05 20:57:23,065 - DEBUG: Disabling Mic and camera befor meeting join for user -- kaveri
+2024-03-05 20:57:31,767 - INFO: User kaveri is joining the meeting..
+2024-03-05 20:57:33,045 - INFO: User kaveri has successfully joined the meeting..
+2024-03-05 21:00:50,825 - DEBUG: Meeting page is loaded for user -- kashish
+2024-03-05 21:01:05,336 - DEBUG: Entered Guest username for -- kashish
+2024-03-05 21:01:15,984 - DEBUG: Disabling Mic and camera befor meeting join for user -- kashish
+2024-03-05 21:01:20,502 - INFO: User kashish is joining the meeting..
+2024-03-05 21:01:21,536 - INFO: User kashish has successfully joined the meeting..
+2024-03-06 20:19:38,699 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MTEyOGE2YmEtMTM0OC00MDFmLWFiMzItNDExYWQ1ODhjYWJj%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=2d23ddc2-1de2-4091-bc34-85f898eec680&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-06 20:19:38,699 - DEBUG: Original meeting url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MTEyOGE2YmEtMTM0OC00MDFmLWFiMzItNDExYWQ1ODhjYWJj%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=2d23ddc2-1de2-4091-bc34-85f898eec680&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-06 20:19:38,699 - DEBUG: New meeting url generated is https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_MTEyOGE2YmEtMTM0OC00MDFmLWFiMzItNDExYWQ1ODhjYWJj@thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%220196a2fd-1482-4961-9bf0-e0279e858d85%22%7d&anon=true&type=meetup-join&deeplinkId=2d23ddc2-1de2-4091-bc34-85f898eec680&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-06 20:19:38,699 - DEBUG: Read and found 20 total users in username file.
+2024-03-06 20:19:38,699 - DEBUG: Read the meeting exit time. It is 60
+2024-03-06 20:19:38,699 - DEBUG: Max number to workers are 5
+2024-03-06 20:19:38,699 - DEBUG: starting chrome driver for user -- harsh
+2024-03-06 20:19:38,699 - DEBUG: starting chrome driver for user -- hasan
+2024-03-06 20:19:38,699 - DEBUG: starting chrome driver for user -- himanshu
+2024-03-06 20:19:38,714 - DEBUG: starting chrome driver for user -- hridesh
+2024-03-06 20:19:38,714 - DEBUG: starting chrome driver for user -- indra
+2024-03-06 20:19:41,164 - DEBUG: Chrome driver is running for user -- harsh
+2024-03-06 20:19:41,383 - DEBUG: Chrome driver is running for user -- himanshu
+2024-03-06 20:19:41,383 - DEBUG: Chrome driver is running for user -- hridesh
+2024-03-06 20:19:41,399 - DEBUG: Chrome driver is running for user -- indra
+2024-03-06 20:19:41,457 - DEBUG: Chrome driver is running for user -- hasan
+2024-03-06 20:19:43,711 - DEBUG: Waiting for meeting url to load for user -- harsh
+2024-03-06 20:19:44,331 - DEBUG: Waiting for meeting url to load for user -- hridesh
+2024-03-06 20:19:44,611 - DEBUG: Waiting for meeting url to load for user -- indra
+2024-03-06 20:19:44,821 - DEBUG: Waiting for meeting url to load for user -- hasan
+2024-03-06 20:19:45,328 - DEBUG: Waiting for meeting url to load for user -- himanshu
+2024-03-06 20:19:54,196 - DEBUG: Meeting page is loaded for user -- harsh
+2024-03-06 20:19:54,197 - DEBUG: Meeting page is loaded for user -- indra
+2024-03-06 20:19:54,518 - DEBUG: Entered Guest username for -- indra
+2024-03-06 20:19:54,567 - DEBUG: Entered Guest username for -- harsh
+2024-03-06 20:19:54,591 - DEBUG: Meeting page is loaded for user -- himanshu
+2024-03-06 20:19:54,621 - DEBUG: Meeting page is loaded for user -- hridesh
+2024-03-06 20:19:54,652 - DEBUG: Disabling Mic and camera befor meeting join for user -- indra
+2024-03-06 20:19:54,683 - DEBUG: Disabling Mic and camera befor meeting join for user -- harsh
+2024-03-06 20:19:55,004 - DEBUG: Entered Guest username for -- himanshu
+2024-03-06 20:19:55,019 - DEBUG: Entered Guest username for -- hridesh
+2024-03-06 20:19:55,095 - DEBUG: Disabling Mic and camera befor meeting join for user -- himanshu
+2024-03-06 20:19:55,141 - DEBUG: Disabling Mic and camera befor meeting join for user -- hridesh
+2024-03-06 20:19:56,075 - DEBUG: Meeting page is loaded for user -- hasan
+2024-03-06 20:19:56,235 - DEBUG: Entered Guest username for -- hasan
+2024-03-06 20:19:56,321 - DEBUG: Disabling Mic and camera befor meeting join for user -- hasan
+2024-03-06 20:19:59,740 - INFO: User harsh is joining the meeting..
+2024-03-06 20:19:59,950 - INFO: User indra is joining the meeting..
+2024-03-06 20:19:59,989 - INFO: User harsh has successfully joined the meeting..
+2024-03-06 20:19:59,990 - DEBUG: starting chrome driver for user -- irshaad
+2024-03-06 20:20:00,110 - INFO: User himanshu is joining the meeting..
+2024-03-06 20:20:00,215 - INFO: User hridesh is joining the meeting..
+2024-03-06 20:20:00,289 - INFO: User indra has successfully joined the meeting..
+2024-03-06 20:20:00,289 - DEBUG: starting chrome driver for user -- ishan
+2024-03-06 20:20:00,497 - INFO: User himanshu has successfully joined the meeting..
+2024-03-06 20:20:00,499 - DEBUG: starting chrome driver for user -- ishana
+2024-03-06 20:20:00,669 - INFO: User hridesh has successfully joined the meeting..
+2024-03-06 20:20:00,669 - DEBUG: starting chrome driver for user -- ishita
+2024-03-06 20:20:00,766 - INFO: User hasan is joining the meeting..
+2024-03-06 20:20:01,247 - INFO: User hasan has successfully joined the meeting..
+2024-03-06 20:20:01,252 - DEBUG: starting chrome driver for user -- jatin
+2024-03-06 20:20:03,829 - DEBUG: Chrome driver is running for user -- irshaad
+2024-03-06 20:20:05,307 - DEBUG: Chrome driver is running for user -- ishan
+2024-03-06 20:20:05,946 - DEBUG: Chrome driver is running for user -- ishana
+2024-03-06 20:20:08,255 - DEBUG: Chrome driver is running for user -- ishita
+2024-03-06 20:20:08,704 - DEBUG: Waiting for meeting url to load for user -- irshaad
+2024-03-06 20:20:10,058 - DEBUG: Waiting for meeting url to load for user -- ishita
+2024-03-06 20:20:11,008 - DEBUG: Waiting for meeting url to load for user -- ishana
+2024-03-06 20:20:13,070 - DEBUG: Waiting for meeting url to load for user -- ishan
+2024-03-06 20:20:24,153 - DEBUG: Chrome driver is running for user -- jatin
+2024-03-06 20:20:29,080 - DEBUG: Meeting page is loaded for user -- irshaad
+2024-03-06 20:20:29,395 - DEBUG: Entered Guest username for -- irshaad
+2024-03-06 20:20:29,431 - DEBUG: Waiting for meeting url to load for user -- jatin
+2024-03-06 20:20:29,716 - DEBUG: Disabling Mic and camera befor meeting join for user -- irshaad
+2024-03-06 20:20:31,211 - DEBUG: Meeting page is loaded for user -- ishita
+2024-03-06 20:20:31,368 - DEBUG: Meeting page is loaded for user -- ishan
+2024-03-06 20:20:31,939 - INFO: User irshaad is joining the meeting..
+2024-03-06 20:20:33,866 - INFO: User irshaad has successfully joined the meeting..
+2024-03-06 20:20:34,476 - DEBUG: starting chrome driver for user -- jay
+2024-03-06 20:20:36,048 - DEBUG: Entered Guest username for -- ishan
+2024-03-06 20:20:39,159 - DEBUG: Entered Guest username for -- ishita
+2024-03-06 20:20:39,527 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishan
+2024-03-06 20:20:40,180 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishita
+2024-03-06 20:20:42,792 - INFO: User ishita is joining the meeting..
+2024-03-06 20:20:43,235 - DEBUG: Meeting page is loaded for user -- jatin
+2024-03-06 20:20:43,719 - DEBUG: Entered Guest username for -- jatin
+2024-03-06 20:20:43,827 - DEBUG: Disabling Mic and camera befor meeting join for user -- jatin
+2024-03-06 20:20:45,771 - INFO: User ishita has successfully joined the meeting..
+2024-03-06 20:20:45,771 - DEBUG: starting chrome driver for user -- jayesh
+2024-03-06 20:20:45,918 - INFO: User jatin is joining the meeting..
+2024-03-06 20:20:46,507 - INFO: User jatin has successfully joined the meeting..
+2024-03-06 20:20:46,540 - DEBUG: starting chrome driver for user -- Kabir
+2024-03-06 20:20:47,339 - DEBUG: Chrome driver is running for user -- jay
+2024-03-06 20:20:48,417 - INFO: User ishan is joining the meeting..
+2024-03-06 20:20:51,011 - INFO: User ishan has successfully joined the meeting..
+2024-03-06 20:20:51,360 - DEBUG: starting chrome driver for user -- kanishk
+2024-03-06 20:20:52,199 - DEBUG: Meeting page is loaded for user -- ishana
+2024-03-06 20:20:53,450 - DEBUG: Waiting for meeting url to load for user -- jay
+2024-03-06 20:20:58,089 - DEBUG: Entered Guest username for -- ishana
+2024-03-06 20:20:59,566 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishana
+2024-03-06 20:21:03,827 - DEBUG: Chrome driver is running for user -- Kabir
+2024-03-06 20:21:05,226 - INFO: User ishana is joining the meeting..
+2024-03-06 20:21:05,259 - DEBUG: Chrome driver is running for user -- jayesh
+2024-03-06 20:21:10,951 - DEBUG: Waiting for meeting url to load for user -- Kabir
+2024-03-06 20:21:12,968 - DEBUG: Chrome driver is running for user -- kanishk
+2024-03-06 20:21:14,826 - INFO: User ishana has successfully joined the meeting..
+2024-03-06 20:21:14,826 - DEBUG: starting chrome driver for user -- kanishka
+2024-03-06 20:21:14,946 - DEBUG: Meeting page is loaded for user -- jay
+2024-03-06 20:21:14,980 - DEBUG: Waiting for meeting url to load for user -- jayesh
+2024-03-06 20:21:28,049 - DEBUG: Waiting for meeting url to load for user -- kanishk
+2024-03-06 20:21:35,071 - DEBUG: Entered Guest username for -- jay
+2024-03-06 20:21:52,324 - DEBUG: Disabling Mic and camera befor meeting join for user -- jay
+2024-03-06 20:21:54,800 - DEBUG: Meeting page is loaded for user -- kanishk
+2024-03-06 20:21:54,940 - DEBUG: Entered Guest username for -- kanishk
+2024-03-06 20:21:55,111 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishk
+2024-03-06 20:21:56,690 - DEBUG: Meeting page is loaded for user -- Kabir
+2024-03-06 20:21:59,515 - INFO: User kanishk is joining the meeting..
+2024-03-06 20:21:59,660 - DEBUG: Entered Guest username for -- Kabir
+2024-03-06 20:21:59,960 - INFO: User jay is joining the meeting..
+2024-03-06 20:22:00,380 - DEBUG: Disabling Mic and camera befor meeting join for user -- Kabir
+2024-03-06 20:22:01,648 - INFO: User kanishk has successfully joined the meeting..
+2024-03-06 20:22:01,659 - DEBUG: starting chrome driver for user -- kareena
+2024-03-06 20:22:02,488 - INFO: User Kabir is joining the meeting..
+2024-03-06 20:22:02,701 - DEBUG: Chrome driver is running for user -- kanishka
+2024-03-06 20:22:06,451 - INFO: User jay has successfully joined the meeting..
+2024-03-06 20:22:06,469 - DEBUG: starting chrome driver for user -- karishma
+2024-03-06 20:22:06,924 - INFO: User Kabir has successfully joined the meeting..
+2024-03-06 20:22:07,388 - DEBUG: starting chrome driver for user -- kashish
+2024-03-06 20:22:11,190 - DEBUG: Waiting for meeting url to load for user -- kanishka
+2024-03-06 20:22:11,996 - DEBUG: Meeting page is loaded for user -- jayesh
+2024-03-06 20:22:18,677 - DEBUG: Entered Guest username for -- jayesh
+2024-03-06 20:22:23,509 - DEBUG: Disabling Mic and camera befor meeting join for user -- jayesh
+2024-03-06 20:22:26,580 - INFO: User jayesh is joining the meeting..
+2024-03-06 20:22:30,776 - DEBUG: Chrome driver is running for user -- kareena
+2024-03-06 20:22:35,987 - DEBUG: Meeting page is loaded for user -- kanishka
+2024-03-06 20:22:36,598 - DEBUG: Waiting for meeting url to load for user -- kareena
+2024-03-06 20:22:42,278 - INFO: User jayesh has successfully joined the meeting..
+2024-03-06 20:22:42,297 - DEBUG: starting chrome driver for user -- kashvi
+2024-03-06 20:22:46,637 - DEBUG: Chrome driver is running for user -- karishma
+2024-03-06 20:22:51,388 - DEBUG: Chrome driver is running for user -- kashish
+2024-03-06 20:22:53,790 - DEBUG: Entered Guest username for -- kanishka
+2024-03-06 20:23:01,431 - DEBUG: Waiting for meeting url to load for user -- kashish
+2024-03-06 20:23:10,340 - DEBUG: Waiting for meeting url to load for user -- karishma
+2024-03-06 20:23:14,578 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishka
+2024-03-06 20:23:21,647 - DEBUG: Meeting page is loaded for user -- kareena
+2024-03-06 20:23:21,908 - DEBUG: Entered Guest username for -- kareena
+2024-03-06 20:23:22,356 - DEBUG: Disabling Mic and camera befor meeting join for user -- kareena
+2024-03-06 20:23:22,889 - INFO: User kanishka is joining the meeting..
+2024-03-06 20:23:24,829 - INFO: User kareena is joining the meeting..
+2024-03-06 20:23:26,849 - INFO: User kanishka has successfully joined the meeting..
+2024-03-06 20:23:27,198 - INFO: User kareena has successfully joined the meeting..
+2024-03-06 20:23:27,269 - DEBUG: starting chrome driver for user -- kaveri
+2024-03-06 20:23:38,611 - DEBUG: Meeting page is loaded for user -- karishma
+2024-03-06 20:23:39,699 - DEBUG: Entered Guest username for -- karishma
+2024-03-06 20:23:39,848 - DEBUG: Disabling Mic and camera befor meeting join for user -- karishma
+2024-03-06 20:23:41,439 - DEBUG: Chrome driver is running for user -- kashvi
+2024-03-06 20:23:42,030 - INFO: User karishma is joining the meeting..
+2024-03-06 20:23:43,100 - INFO: User karishma has successfully joined the meeting..
+2024-03-06 20:23:52,291 - DEBUG: Waiting for meeting url to load for user -- kashvi
+2024-03-06 20:23:53,159 - DEBUG: Meeting page is loaded for user -- kashish
+2024-03-06 20:23:53,497 - DEBUG: Entered Guest username for -- kashish
+2024-03-06 20:23:55,950 - DEBUG: Disabling Mic and camera befor meeting join for user -- kashish
+2024-03-06 20:24:01,050 - INFO: User kashish is joining the meeting..
+2024-03-06 20:24:02,579 - INFO: User kashish has successfully joined the meeting..
+2024-03-06 20:24:10,378 - DEBUG: Chrome driver is running for user -- kaveri
+2024-03-06 20:24:19,144 - DEBUG: Waiting for meeting url to load for user -- kaveri
+2024-03-06 20:24:33,929 - DEBUG: Meeting page is loaded for user -- kashvi
+2024-03-06 20:24:35,030 - DEBUG: Entered Guest username for -- kashvi
+2024-03-06 20:24:36,976 - DEBUG: Disabling Mic and camera befor meeting join for user -- kashvi
+2024-03-06 20:24:40,519 - INFO: User kashvi is joining the meeting..
+2024-03-06 20:24:42,000 - INFO: User kashvi has successfully joined the meeting..
+2024-03-06 20:24:56,958 - DEBUG: Meeting page is loaded for user -- kaveri
+2024-03-06 20:24:57,599 - DEBUG: Entered Guest username for -- kaveri
+2024-03-06 20:24:57,810 - DEBUG: Disabling Mic and camera befor meeting join for user -- kaveri
+2024-03-06 20:25:00,088 - INFO: User kaveri is joining the meeting..
+2024-03-06 20:25:01,817 - INFO: User kaveri has successfully joined the meeting..
+2024-03-06 20:25:01,908 - INFO: Waiting for 60 minutes to close the browsers..
+2024-03-06 21:06:25,407 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MTEyOGE2YmEtMTM0OC00MDFmLWFiMzItNDExYWQ1ODhjYWJj%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=2d23ddc2-1de2-4091-bc34-85f898eec680&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-06 21:06:25,407 - DEBUG: Original meeting url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MTEyOGE2YmEtMTM0OC00MDFmLWFiMzItNDExYWQ1ODhjYWJj%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%25220196a2fd-1482-4961-9bf0-e0279e858d85%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=2d23ddc2-1de2-4091-bc34-85f898eec680&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-06 21:06:25,408 - DEBUG: New meeting url generated is https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_MTEyOGE2YmEtMTM0OC00MDFmLWFiMzItNDExYWQ1ODhjYWJj@thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%220196a2fd-1482-4961-9bf0-e0279e858d85%22%7d&anon=true&type=meetup-join&deeplinkId=2d23ddc2-1de2-4091-bc34-85f898eec680&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-03-06 21:06:25,412 - DEBUG: Read and found 47 total users in username file.
+2024-03-06 21:06:25,412 - DEBUG: Read the meeting exit time. It is 60
+2024-03-06 21:06:25,412 - DEBUG: Max number to workers are 5
+2024-03-06 21:06:25,412 - DEBUG: starting chrome driver for user -- harsh
+2024-03-06 21:06:25,413 - DEBUG: starting chrome driver for user -- hasan
+2024-03-06 21:06:25,413 - DEBUG: starting chrome driver for user -- himanshu
+2024-03-06 21:06:25,413 - DEBUG: starting chrome driver for user -- hridesh
+2024-03-06 21:06:25,414 - DEBUG: starting chrome driver for user -- indra
+2024-03-06 21:06:28,432 - DEBUG: Chrome driver is running for user -- hridesh
+2024-03-06 21:06:28,641 - DEBUG: Chrome driver is running for user -- himanshu
+2024-03-06 21:06:28,752 - DEBUG: Chrome driver is running for user -- indra
+2024-03-06 21:06:28,760 - DEBUG: Chrome driver is running for user -- hasan
+2024-03-06 21:06:28,771 - DEBUG: Chrome driver is running for user -- harsh
+2024-03-06 21:06:34,117 - DEBUG: Waiting for meeting url to load for user -- hasan
+2024-03-06 21:06:34,386 - DEBUG: Waiting for meeting url to load for user -- himanshu
+2024-03-06 21:06:34,687 - DEBUG: Waiting for meeting url to load for user -- harsh
+2024-03-06 21:06:35,265 - DEBUG: Waiting for meeting url to load for user -- indra
+2024-03-06 21:06:35,635 - DEBUG: Waiting for meeting url to load for user -- hridesh
+2024-03-06 21:06:47,400 - DEBUG: Meeting page is loaded for user -- indra
+2024-03-06 21:06:47,407 - DEBUG: Meeting page is loaded for user -- hasan
+2024-03-06 21:06:47,710 - DEBUG: Meeting page is loaded for user -- himanshu
+2024-03-06 21:06:47,726 - DEBUG: Entered Guest username for -- indra
+2024-03-06 21:06:47,760 - DEBUG: Entered Guest username for -- hasan
+2024-03-06 21:06:47,943 - DEBUG: Disabling Mic and camera befor meeting join for user -- indra
+2024-03-06 21:06:47,956 - DEBUG: Disabling Mic and camera befor meeting join for user -- hasan
+2024-03-06 21:06:48,088 - DEBUG: Entered Guest username for -- himanshu
+2024-03-06 21:06:48,095 - DEBUG: Meeting page is loaded for user -- harsh
+2024-03-06 21:06:48,205 - DEBUG: Disabling Mic and camera befor meeting join for user -- himanshu
+2024-03-06 21:06:48,252 - DEBUG: Entered Guest username for -- harsh
+2024-03-06 21:06:48,308 - DEBUG: Disabling Mic and camera befor meeting join for user -- harsh
+2024-03-06 21:06:50,128 - DEBUG: Meeting page is loaded for user -- hridesh
+2024-03-06 21:06:50,296 - INFO: User hasan is joining the meeting..
+2024-03-06 21:06:50,375 - INFO: User harsh is joining the meeting..
+2024-03-06 21:06:50,682 - DEBUG: Entered Guest username for -- hridesh
+2024-03-06 21:06:50,826 - DEBUG: Disabling Mic and camera befor meeting join for user -- hridesh
+2024-03-06 21:06:51,174 - INFO: User harsh has successfully joined the meeting..
+2024-03-06 21:06:51,178 - DEBUG: starting chrome driver for user -- irshaad
+2024-03-06 21:06:51,451 - INFO: User hasan has successfully joined the meeting..
+2024-03-06 21:06:51,456 - DEBUG: starting chrome driver for user -- ishan
+2024-03-06 21:06:53,574 - INFO: User indra is joining the meeting..
+2024-03-06 21:06:53,685 - INFO: User himanshu is joining the meeting..
+2024-03-06 21:06:54,094 - DEBUG: Chrome driver is running for user -- irshaad
+2024-03-06 21:06:54,352 - INFO: User indra has successfully joined the meeting..
+2024-03-06 21:06:54,353 - DEBUG: starting chrome driver for user -- ishana
+2024-03-06 21:06:55,273 - DEBUG: Chrome driver is running for user -- ishan
+2024-03-06 21:06:55,678 - INFO: User hridesh is joining the meeting..
+2024-03-06 21:06:59,633 - INFO: User himanshu has successfully joined the meeting..
+2024-03-06 21:06:59,648 - DEBUG: Waiting for meeting url to load for user -- irshaad
+2024-03-06 21:06:59,657 - DEBUG: starting chrome driver for user -- ishita
+2024-03-06 21:07:00,224 - DEBUG: Waiting for meeting url to load for user -- ishan
+2024-03-06 21:07:03,362 - INFO: User hridesh has successfully joined the meeting..
+2024-03-06 21:07:03,362 - DEBUG: starting chrome driver for user -- jatin
+2024-03-06 21:07:15,851 - DEBUG: Chrome driver is running for user -- ishana
+2024-03-06 21:07:16,808 - DEBUG: Waiting for meeting url to load for user -- ishana
+2024-03-06 21:07:20,331 - DEBUG: Meeting page is loaded for user -- irshaad
+2024-03-06 21:07:21,022 - DEBUG: Entered Guest username for -- irshaad
+2024-03-06 21:07:21,403 - DEBUG: Meeting page is loaded for user -- ishan
+2024-03-06 21:07:21,653 - DEBUG: Chrome driver is running for user -- ishita
+2024-03-06 21:07:22,112 - DEBUG: Entered Guest username for -- ishan
+2024-03-06 21:07:24,043 - DEBUG: Disabling Mic and camera befor meeting join for user -- irshaad
+2024-03-06 21:07:29,503 - DEBUG: Waiting for meeting url to load for user -- ishita
+2024-03-06 21:07:32,233 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishan
+2024-03-06 21:07:32,242 - DEBUG: Chrome driver is running for user -- jatin
+2024-03-06 21:07:38,871 - DEBUG: Waiting for meeting url to load for user -- jatin
+2024-03-06 21:07:41,332 - DEBUG: Meeting page is loaded for user -- ishana
+2024-03-06 21:07:41,530 - DEBUG: Entered Guest username for -- ishana
+2024-03-06 21:07:41,862 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishana
+2024-03-06 21:07:43,933 - INFO: User ishana is joining the meeting..
+2024-03-06 21:07:44,241 - INFO: User irshaad is joining the meeting..
+2024-03-06 21:07:45,071 - INFO: User ishan is joining the meeting..
+2024-03-06 21:07:45,383 - INFO: User ishana has successfully joined the meeting..
+2024-03-06 21:07:45,383 - DEBUG: starting chrome driver for user -- jay
+2024-03-06 21:07:46,057 - INFO: User irshaad has successfully joined the meeting..
+2024-03-06 21:07:46,058 - DEBUG: starting chrome driver for user -- jayesh
+2024-03-06 21:07:46,746 - INFO: User ishan has successfully joined the meeting..
+2024-03-06 21:07:46,800 - DEBUG: starting chrome driver for user -- Kabir
+2024-03-06 21:07:50,054 - DEBUG: Meeting page is loaded for user -- ishita
+2024-03-06 21:07:50,591 - DEBUG: Entered Guest username for -- ishita
+2024-03-06 21:07:50,694 - DEBUG: Disabling Mic and camera befor meeting join for user -- ishita
+2024-03-06 21:07:53,464 - DEBUG: Meeting page is loaded for user -- jatin
+2024-03-06 21:07:54,057 - INFO: User ishita is joining the meeting..
+2024-03-06 21:07:54,529 - DEBUG: Chrome driver is running for user -- jay
+2024-03-06 21:07:57,176 - DEBUG: Chrome driver is running for user -- Kabir
+2024-03-06 21:07:59,490 - DEBUG: Chrome driver is running for user -- jayesh
+2024-03-06 21:07:59,924 - DEBUG: Entered Guest username for -- jatin
+2024-03-06 21:08:01,650 - DEBUG: Disabling Mic and camera befor meeting join for user -- jatin
+2024-03-06 21:08:03,854 - INFO: User ishita has successfully joined the meeting..
+2024-03-06 21:08:04,042 - DEBUG: Waiting for meeting url to load for user -- jay
+2024-03-06 21:08:04,051 - DEBUG: starting chrome driver for user -- kanishk
+2024-03-06 21:08:08,061 - DEBUG: Waiting for meeting url to load for user -- Kabir
+2024-03-06 21:08:11,850 - DEBUG: Waiting for meeting url to load for user -- jayesh
+2024-03-06 21:08:36,324 - DEBUG: Meeting page is loaded for user -- jay
+2024-03-06 21:08:36,744 - INFO: User jatin is joining the meeting..
+2024-03-06 21:08:41,382 - DEBUG: Entered Guest username for -- jay
+2024-03-06 21:08:44,110 - INFO: User jatin has successfully joined the meeting..
+2024-03-06 21:08:44,138 - DEBUG: starting chrome driver for user -- kanishka
+2024-03-06 21:08:44,213 - DEBUG: Disabling Mic and camera befor meeting join for user -- jay
+2024-03-06 21:08:44,971 - DEBUG: Meeting page is loaded for user -- Kabir
+2024-03-06 21:08:45,593 - DEBUG: Entered Guest username for -- Kabir
+2024-03-06 21:08:46,010 - DEBUG: Disabling Mic and camera befor meeting join for user -- Kabir
+2024-03-06 21:08:54,883 - DEBUG: Chrome driver is running for user -- kanishk
+2024-03-06 21:08:57,173 - INFO: User jay is joining the meeting..
+2024-03-06 21:08:59,359 - INFO: User Kabir is joining the meeting..
+2024-03-06 21:09:00,273 - DEBUG: Waiting for meeting url to load for user -- kanishk
+2024-03-06 21:09:07,263 - INFO: User jay has successfully joined the meeting..
+2024-03-06 21:09:07,451 - DEBUG: starting chrome driver for user -- kareena
+2024-03-06 21:09:07,804 - DEBUG: Meeting page is loaded for user -- jayesh
+2024-03-06 21:09:16,055 - INFO: User Kabir has successfully joined the meeting..
+2024-03-06 21:09:16,138 - DEBUG: starting chrome driver for user -- karishma
+2024-03-06 21:09:22,663 - DEBUG: Chrome driver is running for user -- kanishka
+2024-03-06 21:09:23,363 - DEBUG: Entered Guest username for -- jayesh
+2024-03-06 21:09:27,531 - DEBUG: Waiting for meeting url to load for user -- kanishka
+2024-03-06 21:09:32,644 - DEBUG: Disabling Mic and camera befor meeting join for user -- jayesh
+2024-03-06 21:09:34,811 - INFO: User jayesh is joining the meeting..
+2024-03-06 21:09:48,151 - INFO: User jayesh has successfully joined the meeting..
+2024-03-06 21:09:48,151 - DEBUG: starting chrome driver for user -- kashish
+2024-03-06 21:09:56,201 - DEBUG: Meeting page is loaded for user -- kanishk
+2024-03-06 21:10:01,613 - DEBUG: Meeting page is loaded for user -- kanishka
+2024-03-06 21:10:09,603 - DEBUG: Chrome driver is running for user -- karishma
+2024-03-06 21:10:10,713 - DEBUG: Entered Guest username for -- kanishk
+2024-03-06 21:10:14,193 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishk
+2024-03-06 21:10:16,410 - DEBUG: Chrome driver is running for user -- kareena
+2024-03-06 21:10:16,972 - DEBUG: Entered Guest username for -- kanishka
+2024-03-06 21:10:17,160 - INFO: User kanishk is joining the meeting..
+2024-03-06 21:10:19,302 - DEBUG: Waiting for meeting url to load for user -- karishma
+2024-03-06 21:10:22,633 - DEBUG: Waiting for meeting url to load for user -- kareena
+2024-03-06 21:10:24,867 - DEBUG: Disabling Mic and camera befor meeting join for user -- kanishka
+2024-03-06 21:10:33,462 - INFO: User kanishk has successfully joined the meeting..
+2024-03-06 21:10:33,873 - DEBUG: starting chrome driver for user -- kashvi
+2024-03-06 21:10:37,251 - DEBUG: Chrome driver is running for user -- kashish
+2024-03-06 21:10:38,830 - INFO: User kanishka is joining the meeting..
+2024-03-06 21:10:49,213 - INFO: User kanishka has successfully joined the meeting..
+2024-03-06 21:10:49,361 - DEBUG: Waiting for meeting url to load for user -- kashish
+2024-03-06 21:10:49,639 - DEBUG: starting chrome driver for user -- kaveri
+2024-03-06 21:11:06,224 - DEBUG: Chrome driver is running for user -- kashvi
+2024-03-06 21:11:10,253 - DEBUG: Meeting page is loaded for user -- kashish
+2024-03-06 21:11:11,711 - DEBUG: Waiting for meeting url to load for user -- kashvi
+2024-03-06 21:11:15,083 - DEBUG: Entered Guest username for -- kashish
+2024-03-06 21:11:18,031 - DEBUG: Meeting page is loaded for user -- kareena
+2024-03-06 21:11:18,983 - DEBUG: Chrome driver is running for user -- kaveri
+2024-03-06 21:11:23,754 - DEBUG: Disabling Mic and camera befor meeting join for user -- kashish
+2024-03-06 21:11:25,203 - DEBUG: Meeting page is loaded for user -- karishma
+2024-03-06 21:11:28,262 - DEBUG: Entered Guest username for -- kareena
+2024-03-06 21:11:31,793 - DEBUG: Disabling Mic and camera befor meeting join for user -- kareena
+2024-03-06 21:11:31,873 - DEBUG: Waiting for meeting url to load for user -- kaveri
+2024-03-06 21:11:32,003 - INFO: User kashish is joining the meeting..
+2024-03-06 21:11:33,109 - INFO: User kashish has successfully joined the meeting..
+2024-03-06 21:11:33,133 - DEBUG: starting chrome driver for user -- nitya
+2024-03-06 21:11:34,482 - INFO: User kareena is joining the meeting..
+2024-03-06 21:11:46,302 - DEBUG: Entered Guest username for -- karishma
+2024-03-06 21:11:49,309 - INFO: User kareena has successfully joined the meeting..
+2024-03-06 21:11:49,310 - DEBUG: starting chrome driver for user -- nyra
+2024-03-06 21:11:59,084 - DEBUG: Meeting page is loaded for user -- kashvi
+2024-03-06 21:11:59,863 - DEBUG: Disabling Mic and camera befor meeting join for user -- karishma
+2024-03-06 21:12:00,763 - DEBUG: Meeting page is loaded for user -- kaveri
+2024-03-06 21:12:02,093 - DEBUG: Entered Guest username for -- kaveri
+2024-03-06 21:12:02,223 - DEBUG: Disabling Mic and camera befor meeting join for user -- kaveri
+2024-03-06 21:12:04,371 - INFO: User kaveri is joining the meeting..
+2024-03-06 21:12:05,133 - INFO: User kaveri has successfully joined the meeting..
+2024-03-06 21:12:05,139 - DEBUG: starting chrome driver for user -- omveer
+2024-03-06 21:12:07,404 - DEBUG: Entered Guest username for -- kashvi
+2024-03-06 21:12:07,996 - DEBUG: Disabling Mic and camera befor meeting join for user -- kashvi
+2024-03-06 21:12:10,162 - INFO: User kashvi is joining the meeting..
+2024-03-06 21:12:11,079 - DEBUG: Chrome driver is running for user -- nitya
+2024-03-06 21:12:12,204 - INFO: User karishma is joining the meeting..
+2024-03-06 21:12:18,537 - INFO: User kashvi has successfully joined the meeting..
+2024-03-06 21:12:18,540 - DEBUG: starting chrome driver for user -- pankaj
+2024-03-06 21:12:23,061 - DEBUG: Waiting for meeting url to load for user -- nitya
+2024-03-06 21:12:32,001 - DEBUG: Chrome driver is running for user -- nyra
+2024-03-06 21:12:39,132 - INFO: User karishma has successfully joined the meeting..
+2024-03-06 21:12:39,132 - DEBUG: starting chrome driver for user -- parminder
+2024-03-06 21:12:47,592 - DEBUG: Waiting for meeting url to load for user -- nyra
+2024-03-06 21:12:59,183 - DEBUG: Meeting page is loaded for user -- nitya
+2024-03-06 21:13:04,022 - DEBUG: Chrome driver is running for user -- pankaj
+2024-03-06 21:13:08,972 - DEBUG: Chrome driver is running for user -- omveer
+2024-03-06 21:13:10,391 - DEBUG: Entered Guest username for -- nitya
+2024-03-06 21:13:18,064 - DEBUG: Waiting for meeting url to load for user -- pankaj
+2024-03-06 21:13:27,742 - DEBUG: Disabling Mic and camera befor meeting join for user -- nitya
+2024-03-06 21:13:29,523 - DEBUG: Waiting for meeting url to load for user -- omveer
+2024-03-06 21:13:34,060 - INFO: User nitya is joining the meeting..
+2024-03-06 21:13:37,293 - DEBUG: Meeting page is loaded for user -- nyra
+2024-03-06 21:13:37,611 - DEBUG: Entered Guest username for -- nyra
+2024-03-06 21:13:37,992 - DEBUG: Disabling Mic and camera befor meeting join for user -- nyra
+2024-03-06 21:13:40,393 - INFO: User nyra is joining the meeting..
+2024-03-06 21:13:43,199 - INFO: User nyra has successfully joined the meeting..
+2024-03-06 21:13:43,200 - DEBUG: starting chrome driver for user -- pavati
+2024-03-06 21:13:46,941 - INFO: User nitya has successfully joined the meeting..
+2024-03-06 21:13:47,392 - DEBUG: starting chrome driver for user -- pawan
+2024-03-06 21:14:15,479 - DEBUG: Meeting page is loaded for user -- pankaj
+2024-03-06 21:14:16,052 - DEBUG: Entered Guest username for -- pankaj
+2024-03-06 21:14:19,081 - DEBUG: Chrome driver is running for user -- parminder
+2024-03-06 21:14:19,832 - DEBUG: Disabling Mic and camera befor meeting join for user -- pankaj
+2024-03-06 21:14:21,964 - INFO: User pankaj is joining the meeting..
+2024-03-06 21:14:34,990 - INFO: User pankaj has successfully joined the meeting..
+2024-03-06 21:14:42,760 - DEBUG: starting chrome driver for user -- payal
+2024-03-06 21:14:53,102 - DEBUG: Waiting for meeting url to load for user -- parminder
+2024-03-06 21:15:02,462 - DEBUG: Meeting page is loaded for user -- omveer
+2024-03-06 21:15:11,243 - DEBUG: Entered Guest username for -- omveer
+2024-03-06 21:15:16,063 - DEBUG: Disabling Mic and camera befor meeting join for user -- omveer
+2024-03-06 21:15:22,192 - INFO: User omveer is joining the meeting..
+2024-03-06 21:15:24,962 - DEBUG: Meeting page is loaded for user -- parminder
+2024-03-06 21:15:25,442 - DEBUG: Entered Guest username for -- parminder
+2024-03-06 21:15:25,982 - DEBUG: Disabling Mic and camera befor meeting join for user -- parminder
+2024-03-06 21:15:28,632 - INFO: User parminder is joining the meeting..
+2024-03-06 21:15:30,451 - DEBUG: Chrome driver is running for user -- pawan
+2024-03-06 21:15:36,733 - INFO: User omveer has successfully joined the meeting..
+2024-03-06 21:15:37,759 - DEBUG: starting chrome driver for user -- poorvi
+2024-03-06 21:15:44,302 - INFO: User parminder has successfully joined the meeting..
+2024-03-06 21:15:44,302 - DEBUG: starting chrome driver for user -- prabash
+2024-03-06 21:15:49,263 - DEBUG: Chrome driver is running for user -- pavati
+2024-03-06 21:15:51,223 - DEBUG: Waiting for meeting url to load for user -- pawan
+2024-03-06 21:16:09,250 - DEBUG: Waiting for meeting url to load for user -- pavati
+2024-03-06 21:16:21,363 - DEBUG: Chrome driver is running for user -- payal
+2024-03-06 21:16:43,323 - DEBUG: Waiting for meeting url to load for user -- payal
+2024-03-06 21:16:52,890 - DEBUG: Meeting page is loaded for user -- pawan
+2024-03-06 21:16:53,891 - DEBUG: Entered Guest username for -- pawan
+2024-03-06 21:16:54,160 - DEBUG: Disabling Mic and camera befor meeting join for user -- pawan
+2024-03-06 21:16:56,370 - INFO: User pawan is joining the meeting..
+2024-03-06 21:16:59,390 - INFO: User pawan has successfully joined the meeting..
+2024-03-06 21:16:59,912 - DEBUG: starting chrome driver for user -- pragati
+2024-03-06 21:17:07,873 - DEBUG: Meeting page is loaded for user -- pavati
+2024-03-06 21:17:38,631 - DEBUG: Entered Guest username for -- pavati
+2024-03-06 21:17:59,909 - DEBUG: Chrome driver is running for user -- prabash
+2024-03-06 21:18:14,629 - DEBUG: Chrome driver is running for user -- poorvi
+2024-03-06 21:18:17,830 - DEBUG: Meeting page is loaded for user -- payal
+2024-03-06 21:18:18,471 - DEBUG: Entered Guest username for -- payal
+2024-03-06 21:18:19,132 - DEBUG: Disabling Mic and camera befor meeting join for user -- payal
+2024-03-06 21:18:25,902 - DEBUG: Disabling Mic and camera befor meeting join for user -- pavati
+2024-03-06 21:18:33,570 - INFO: User payal is joining the meeting..
+2024-03-06 21:19:00,982 - DEBUG: Waiting for meeting url to load for user -- prabash
+2024-03-06 21:19:10,350 - INFO: User pavati is joining the meeting..
+2024-03-06 21:19:11,700 - DEBUG: Waiting for meeting url to load for user -- poorvi
+2024-03-06 21:19:23,531 - INFO: User payal has successfully joined the meeting..
+2024-03-06 21:19:26,519 - DEBUG: starting chrome driver for user -- prakaash
+2024-03-06 21:20:08,670 - INFO: User pavati has successfully joined the meeting..
+2024-03-06 21:20:09,122 - DEBUG: starting chrome driver for user -- pranshu
+2024-03-06 21:20:19,391 - DEBUG: Meeting page is loaded for user -- prabash
+2024-03-06 21:20:19,892 - DEBUG: Entered Guest username for -- prabash
+2024-03-06 21:20:20,307 - DEBUG: Disabling Mic and camera befor meeting join for user -- prabash
+2024-03-06 21:20:22,592 - INFO: User prabash is joining the meeting..
+2024-03-06 21:20:23,710 - DEBUG: Meeting page is loaded for user -- poorvi
+2024-03-06 21:20:27,118 - INFO: User prabash has successfully joined the meeting..
+2024-03-06 21:20:31,142 - DEBUG: starting chrome driver for user -- prateek
+2024-03-06 21:20:33,999 - DEBUG: Entered Guest username for -- poorvi
+2024-03-06 21:20:46,229 - DEBUG: Disabling Mic and camera befor meeting join for user -- poorvi
+2024-03-06 21:20:55,609 - DEBUG: Chrome driver is running for user -- pragati
+2024-03-06 21:20:58,257 - INFO: User poorvi is joining the meeting..
+2024-03-06 21:21:00,222 - DEBUG: Waiting for meeting url to load for user -- pragati
+2024-03-06 21:21:18,979 - INFO: User poorvi has successfully joined the meeting..
+2024-03-06 21:21:19,809 - DEBUG: starting chrome driver for user -- pravin
+2024-03-06 21:21:22,722 - DEBUG: Chrome driver is running for user -- prakaash
+2024-03-06 21:21:28,640 - DEBUG: Chrome driver is running for user -- pranshu
+2024-03-06 21:21:41,789 - DEBUG: Waiting for meeting url to load for user -- prakaash
+2024-03-06 21:21:50,079 - DEBUG: Waiting for meeting url to load for user -- pranshu
+2024-03-06 21:21:53,628 - DEBUG: Meeting page is loaded for user -- pragati
+2024-03-06 21:21:54,939 - DEBUG: Entered Guest username for -- pragati
+2024-03-06 21:21:55,088 - DEBUG: Disabling Mic and camera befor meeting join for user -- pragati
+2024-03-06 21:21:57,319 - INFO: User pragati is joining the meeting..
+2024-03-06 21:21:58,109 - DEBUG: Chrome driver is running for user -- prateek
+2024-03-06 21:22:02,789 - INFO: User pragati has successfully joined the meeting..
+2024-03-06 21:22:07,378 - DEBUG: starting chrome driver for user -- preeti
+2024-03-06 21:23:02,501 - DEBUG: Waiting for meeting url to load for user -- prateek
+2024-03-06 21:23:12,009 - DEBUG: Meeting page is loaded for user -- pranshu
+2024-03-06 21:23:45,691 - DEBUG: Meeting page is loaded for user -- prakaash
+2024-03-06 21:23:50,619 - DEBUG: Entered Guest username for -- pranshu
+2024-03-06 21:24:23,446 - DEBUG: Disabling Mic and camera befor meeting join for user -- pranshu
+2024-03-06 21:25:07,567 - INFO: User pranshu is joining the meeting..
+2024-03-06 21:25:52,918 - DEBUG: Entered Guest username for -- prakaash
+2024-03-06 21:26:23,889 - DEBUG: Disabling Mic and camera befor meeting join for user -- prakaash
+2024-03-06 21:27:13,050 - INFO: User pranshu has successfully joined the meeting..
+2024-03-06 21:27:13,077 - DEBUG: starting chrome driver for user -- prem
+2024-03-06 21:27:17,612 - INFO: User prakaash is joining the meeting..
+2024-03-06 21:27:45,618 - INFO: User prakaash has successfully joined the meeting..
+2024-03-06 21:27:45,620 - DEBUG: starting chrome driver for user -- prince
+2024-03-06 21:28:32,526 - DEBUG: Chrome driver is running for user -- pravin
+2024-03-06 21:29:40,406 - DEBUG: Waiting for meeting url to load for user -- pravin
+2024-03-06 21:30:44,595 - DEBUG: Chrome driver is running for user -- preeti
+2024-03-06 21:31:11,508 - DEBUG: Waiting for meeting url to load for user -- preeti
+2024-03-06 21:32:16,757 - DEBUG: Meeting page is loaded for user -- pravin
+2024-03-06 21:33:02,840 - DEBUG: Meeting page is loaded for user -- preeti
+2024-03-06 21:33:04,479 - DEBUG: Entered Guest username for -- pravin
+2024-03-06 21:33:04,696 - DEBUG: Chrome driver is running for user -- prem
+2024-03-06 21:33:23,747 - DEBUG: starting chrome driver for user -- rachit
+2024-03-06 21:33:53,327 - DEBUG: Waiting for meeting url to load for user -- prem
+2024-03-06 21:33:54,210 - DEBUG: Disabling Mic and camera befor meeting join for user -- pravin
+2024-03-06 21:34:18,406 - DEBUG: Entered Guest username for -- preeti
+2024-03-06 21:34:22,869 - INFO: User pravin is joining the meeting..
+2024-03-06 21:35:00,496 - DEBUG: Disabling Mic and camera befor meeting join for user -- preeti
+2024-03-06 21:35:09,020 - INFO: User pravin has successfully joined the meeting..
+2024-03-06 21:35:09,027 - DEBUG: starting chrome driver for user -- raj
+2024-03-06 21:35:34,169 - INFO: User preeti is joining the meeting..
+2024-03-06 21:35:57,608 - INFO: User preeti has successfully joined the meeting..
+2024-03-06 21:35:59,546 - DEBUG: starting chrome driver for user -- rajat
+2024-03-06 21:36:16,335 - DEBUG: Meeting page is loaded for user -- prem
+2024-03-06 21:36:37,477 - DEBUG: Entered Guest username for -- prem
+2024-03-06 21:36:45,955 - DEBUG: Disabling Mic and camera befor meeting join for user -- prem
+2024-03-06 21:36:55,840 - INFO: User prem is joining the meeting..
+2024-03-06 21:37:04,358 - INFO: User prem has successfully joined the meeting..
+2024-03-06 21:37:04,519 - DEBUG: starting chrome driver for user -- rajendra
+2024-03-06 21:39:51,287 - DEBUG: starting chrome driver for user -- ram
+2024-03-06 21:44:06,796 - DEBUG: Chrome driver is running for user -- raj
+2024-03-06 21:44:08,982 - DEBUG: starting chrome driver for user -- ramesh
+2024-03-06 21:45:08,015 - DEBUG: Chrome driver is running for user -- rajendra
+2024-03-06 21:45:24,158 - DEBUG: Waiting for meeting url to load for user -- raj
+2024-03-06 21:45:35,437 - DEBUG: Chrome driver is running for user -- ram
+2024-03-06 21:46:09,547 - DEBUG: Waiting for meeting url to load for user -- rajendra
+2024-03-06 21:46:40,744 - DEBUG: Waiting for meeting url to load for user -- ram
+2024-03-06 21:47:40,847 - DEBUG: Meeting page is loaded for user -- raj
+2024-03-06 21:47:56,083 - DEBUG: Meeting page is loaded for user -- ram
+2024-03-06 21:47:59,755 - DEBUG: Entered Guest username for -- raj
+2024-03-06 21:48:10,552 - DEBUG: Entered Guest username for -- ram
+2024-03-06 21:48:12,126 - DEBUG: Disabling Mic and camera befor meeting join for user -- raj
+2024-03-06 21:48:24,605 - DEBUG: Disabling Mic and camera befor meeting join for user -- ram
+2024-03-06 21:48:31,173 - INFO: User raj is joining the meeting..
+2024-03-06 21:48:34,842 - INFO: User ram is joining the meeting..
+2024-03-06 21:48:44,315 - DEBUG: Meeting page is loaded for user -- rajendra
+2024-03-06 21:49:08,492 - INFO: User ram has successfully joined the meeting..
+2024-03-06 21:49:08,493 - DEBUG: starting chrome driver for user -- rani
+2024-03-06 21:49:15,407 - INFO: User raj has successfully joined the meeting..
+2024-03-06 21:49:15,413 - DEBUG: starting chrome driver for user -- ravinder
+2024-03-06 21:49:23,497 - DEBUG: Chrome driver is running for user -- ramesh
+2024-03-06 21:49:31,291 - DEBUG: Entered Guest username for -- rajendra
+2024-03-06 21:50:01,320 - DEBUG: Waiting for meeting url to load for user -- ramesh
+2024-03-06 21:50:14,087 - DEBUG: Disabling Mic and camera befor meeting join for user -- rajendra
+2024-03-06 21:50:39,997 - INFO: User rajendra is joining the meeting..
+2024-03-06 21:51:20,711 - INFO: User rajendra has successfully joined the meeting..
+2024-03-06 21:51:20,714 - DEBUG: starting chrome driver for user -- rinku
+2024-03-06 21:52:53,963 - DEBUG: Meeting page is loaded for user -- ramesh
+2024-03-06 21:53:33,801 - DEBUG: Entered Guest username for -- ramesh
+2024-03-06 21:54:05,985 - DEBUG: Disabling Mic and camera befor meeting join for user -- ramesh
+2024-03-06 21:54:56,176 - DEBUG: Chrome driver is running for user -- ravinder
+2024-03-06 21:54:58,622 - INFO: User ramesh is joining the meeting..
+2024-03-06 21:54:59,222 - DEBUG: Chrome driver is running for user -- rani
+2024-03-06 21:55:01,911 - DEBUG: Waiting for meeting url to load for user -- ravinder
+2024-03-06 21:56:07,325 - INFO: User ramesh has successfully joined the meeting..
+2024-03-06 21:56:07,974 - DEBUG: Waiting for meeting url to load for user -- rani
